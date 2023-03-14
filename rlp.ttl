@@ -1,0 +1,803 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://rlp.de/505099010101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990101> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A2364094-DE21-4367-A79F-44FF27A1B9B8> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.1.1." ;
+    skos:note "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
+    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de .
+
+<http://rlp.de/505099010102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990101> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C605B54F-AC2C-4EC6-8A37-280105E82275> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.1.2." ;
+    skos:note "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
+    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de .
+
+<http://rlp.de/505099010103> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990101> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C15F878A-C6FA-489F-8136-6FCFA195DD1A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.1.3." ;
+    skos:note "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
+    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de .
+
+<http://rlp.de/505099010104> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990101> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/CDB1F735-52F5-4ABE-A059-F07D5863108D> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.1.4." ;
+    skos:note "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
+    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de .
+
+<http://rlp.de/505099010201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990102> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F9B03D28-DBAE-4414-A3DC-19021AB827CB> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.2.1." ;
+    skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+
+<http://rlp.de/505099010202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990102> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/104B23E8-18E7-4D1C-B814-239403DCE6D9> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.2.2." ;
+    skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+
+<http://rlp.de/505099010301> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990103> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A44B1A87-940C-42B6-9695-FD67874217B0> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.3.1." ;
+    skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+
+<http://rlp.de/505099010302> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990103> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/D308E815-D384-4339-A741-F564E6DF9385> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "1.3.2." ;
+    skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+
+<http://rlp.de/505099020101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990201> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/E819AC9F-1498-44F7-BCDF-924EA89A7623> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.1.1." ;
+    skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+
+<http://rlp.de/505099020102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990201> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A5BC1AA6-96B4-4F45-89A9-24A30F066912> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.1.2." ;
+    skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+
+<http://rlp.de/505099020201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990202> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/68673305-1281-4B6C-80CB-644F35006FFE> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.2.1." ;
+    skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+
+<http://rlp.de/505099020202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990202> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/CA1C5B3B-CBEF-4D08-9B62-D5FA996058A0> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.2.2." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/505099020301> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990203> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/632CFA45-8F42-4561-BE41-A29FE8217293> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.3.1." ;
+    skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+
+<http://rlp.de/505099020302> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990203> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C36FCDCD-D849-40FE-8A41-FB4CC54CADB6> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.3.2." ;
+    skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+
+<http://rlp.de/505099020401> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990204> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F820983A-3FB8-43C7-8C6C-9FF8B08AD2EC> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.4.1." ;
+    skos:note "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
+    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de .
+
+<http://rlp.de/505099020402> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990204> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/B612B3B4-4F02-4ED5-AF31-7CD5433F5B59> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.4.2." ;
+    skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+
+<http://rlp.de/505099020403> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990204> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A1FA8E56-68F2-473F-852C-8199261D87BD> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.4.3." ;
+    skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+
+<http://rlp.de/505099020404> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990204> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/309B4EAB-648E-4406-B2CB-01116572A061> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.4.4." ;
+    skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+
+<http://rlp.de/505099020501> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990205> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/7CDB7AF6-7424-4C81-A5D2-E5AFD4430AB6> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.5.1." ;
+    skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+
+<http://rlp.de/505099020502> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990205> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/9A0CCB59-BD3F-44E1-A6FE-E80CC45B98E7> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.5.2." ;
+    skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+
+<http://rlp.de/505099020503> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990205> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/E1F6B5E8-41FB-4633-89EC-E4D1C9600DDD> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "2.5.3." ;
+    skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+
+<http://rlp.de/505099030101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990301> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/1BDC7D01-DF22-431A-B44B-E8CE1A390EDA> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.1.1." ;
+    skos:note "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
+    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de .
+
+<http://rlp.de/505099030102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990301> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/BF623466-AF3C-40F8-9789-05DA8A8F8853> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.1.2." ;
+    skos:note "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
+    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de .
+
+<http://rlp.de/505099030201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990302> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/61CCC9B1-C16E-4AE3-ABD1-A017F0BA7AF3> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.2.1." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/505099030202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990302> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/3B2E4217-4626-4A8C-BC59-895B7A8D3C98> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.2.2." ;
+    skos:note "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
+    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de .
+
+<http://rlp.de/505099030301> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990303> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/2EE8DA61-509D-4018-A148-297FEC67B895> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.3.1." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/505099030302> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990303> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/7FDDE6D6-790A-4478-9877-3A6E47F207B8> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.3.2." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/505099030303> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990303> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/811BF793-18A9-4832-B782-E0B7A7DB2BC5> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "3.3.3." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/505099040101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990401> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A1A49BE0-DB4C-467A-A566-CC915A4A56A9> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.1.1." ;
+    skos:note "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
+    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de .
+
+<http://rlp.de/505099040102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990401> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/85D319FD-B33D-45BF-9376-AA874AD87A62> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.1.2." ;
+    skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+
+<http://rlp.de/505099040201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990402> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/52CF6472-FE18-4B74-9EF2-A18C28B30068> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.2.1." ;
+    skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+
+<http://rlp.de/505099040202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990402> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/0CAB3A2C-47F5-48B1-AD33-0245C77284F2> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.2.2." ;
+    skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+
+<http://rlp.de/505099040203> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990402> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/78326259-4504-43CF-BDC7-47F764E1C855> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.2.3." ;
+    skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+
+<http://rlp.de/505099040204> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990402> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/64F1F6D7-84BD-4760-96E3-E7713502F895> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.2.4." ;
+    skos:note "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen"@de ;
+    skos:prefLabel "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen"@de .
+
+<http://rlp.de/505099040301> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990403> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/2AD9AD1D-D0F0-4AD6-BAC3-C51439218587> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.3.1." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/505099040302> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990403> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/D46ED466-3D3E-4195-A195-6E9067570736> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.3.2." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/505099040303> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990403> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/8F53454E-E4CA-4F0D-BF61-D2EB12E6DCEB> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.3.3." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/505099040401> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990404> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/3C638851-D9E1-47CF-9B00-75BF24893731> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "4.4.1." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/505099050101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990501> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/4E719615-723B-43FF-AEBB-8E2974F9A92C> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.1.1." ;
+    skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+
+<http://rlp.de/505099050102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990501> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A2A33EF5-13F2-4631-B37D-211276B683B3> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.1.2." ;
+    skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+
+<http://rlp.de/505099050103> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990501> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/598E80C9-ECC8-44DC-B758-5D41212F6638> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.1.3." ;
+    skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+
+<http://rlp.de/505099050201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990502> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A3DFAF9C-4AF2-42E5-92C6-8DC9BA9704F8> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.2.1." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099050202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990502> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/9A93A0D2-6845-4B5B-BE15-77C60FEFF08A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.2.2." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099050203> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990502> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F561FA09-D206-46F9-AE18-B94B46622EAE> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.2.3." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099050204> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990502> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C8DE2124-6D7D-4C01-8B0B-49EA65A6A907> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.2.4." ;
+    skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+
+<http://rlp.de/505099050301> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990503> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C55FD672-7077-42BE-995A-51DD3F60477C> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.3.1." ;
+    skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+
+<http://rlp.de/505099050302> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990503> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/394F0F9D-C69C-4946-9FEE-DC0F875B506B> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.3.2." ;
+    skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+
+<http://rlp.de/505099050401> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990504> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/129EE303-928D-44FB-B374-D7C6D61FC099> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.4.1." ;
+    skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+
+<http://rlp.de/505099050402> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990504> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/79CA2484-463D-4F47-BBB5-A6AC51B39239> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.4.2." ;
+    skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+
+<http://rlp.de/505099050501> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990505> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/59A93980-F744-4A43-8AA1-485C9AB68C5F> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.5.1." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099050502> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990505> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/FBB20399-B88B-4E83-936B-8D6EF398E2F1> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.5.2." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099050503> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990505> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/5174CA86-EA58-4D3A-AF1D-02D2459A5D89> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "5.5.3." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/505099060101> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990601> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F90D7B23-D6CA-4EE8-8CB6-2474F876F0F4> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.1.1." ;
+    skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+
+<http://rlp.de/505099060102> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990601> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C37DF8BD-4822-4A6F-83EB-4D2C84222201> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.1.2." ;
+    skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+
+<http://rlp.de/505099060103> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990601> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/2CB82A2C-008E-42FE-8724-E99A7E35154A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.1.3." ;
+    skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+
+<http://rlp.de/505099060201> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/94FBCE7E-268E-4D16-B780-457764B68DB2> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.1." ;
+    skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+
+<http://rlp.de/505099060202> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/4A19EF92-5E68-4B69-937A-B15FC19B7804> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.2." ;
+    skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+
+<http://rlp.de/505099060203> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/9ACDA1DF-860E-4882-BB6B-552D9713A821> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.3." ;
+    skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+
+<http://rlp.de/505099060204> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F17150BD-7D87-443C-932B-D314D1201776> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.4." ;
+    skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+
+<http://rlp.de/505099060205> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/0ECB0609-D0EB-4D7A-8425-85CC91132C0E> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.5." ;
+    skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+
+<http://rlp.de/505099060206> a skos:Concept ;
+    skos:broader <http://rlp.de/5050990602> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F7D9AD75-7E30-454E-B97A-6625B3620DAD> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:notation "6.2.6." ;
+    skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+
+<http://rlp.de/5050990404> a skos:Concept ;
+    skos:broader <http://rlp.de/50509904> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/2D8E0507-682A-4C2F-9B28-D7722382D29E> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099040401> ;
+    skos:notation "4.4." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/50509906> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/98BD185D-919B-4E7F-BFBB-A4DB2020CE1E> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990601>,
+        <http://rlp.de/5050990602> ;
+    skos:notation "6." ;
+    skos:note "Analysieren und Reflektrieren"@de ;
+    skos:prefLabel "Analysieren und Reflektrieren"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/50509901> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/ACC2EE4E-C3CE-4300-A7BC-AB3FA340DEB3> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990101>,
+        <http://rlp.de/5050990102>,
+        <http://rlp.de/5050990103> ;
+    skos:notation "1." ;
+    skos:note "Informieren und Recherchieren"@de ;
+    skos:prefLabel "Informieren und Recherchieren"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/5050990102> a skos:Concept ;
+    skos:broader <http://rlp.de/50509901> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/4A5FE9E6-13FB-4A90-8034-5689D6EA804C> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099010201>,
+        <http://rlp.de/505099010202> ;
+    skos:notation "1.2." ;
+    skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+
+<http://rlp.de/5050990103> a skos:Concept ;
+    skos:broader <http://rlp.de/50509901> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/89FA9D2B-484B-4D7E-AC43-B0100C3D0D0E> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099010301>,
+        <http://rlp.de/505099010302> ;
+    skos:notation "1.3." ;
+    skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+
+<http://rlp.de/5050990201> a skos:Concept ;
+    skos:broader <http://rlp.de/50509902> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/86F6AEFE-EA4D-42D3-8131-A514B78C904A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099020101>,
+        <http://rlp.de/505099020102> ;
+    skos:notation "2.1." ;
+    skos:note "Kommunizieren und Kooperieren"@de ;
+    skos:prefLabel "Kommunizieren und Kooperieren"@de .
+
+<http://rlp.de/5050990202> a skos:Concept ;
+    skos:broader <http://rlp.de/50509902> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/3A7AB032-812D-464C-A834-3A7F6824B61B> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099020201>,
+        <http://rlp.de/505099020202> ;
+    skos:notation "2.2." ;
+    skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+
+<http://rlp.de/5050990203> a skos:Concept ;
+    skos:broader <http://rlp.de/50509902> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/108097E8-A762-477A-8389-5FC1908E7EAB> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099020301>,
+        <http://rlp.de/505099020302> ;
+    skos:notation "2.3." ;
+    skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+
+<http://rlp.de/50509903> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F427CBE5-3444-405B-B3ED-31392C5AD548> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990301>,
+        <http://rlp.de/5050990302>,
+        <http://rlp.de/5050990303> ;
+    skos:notation "3." ;
+    skos:note "Produzieren und Präsentieren"@de ;
+    skos:prefLabel "Produzieren und Präsentieren"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/5050990301> a skos:Concept ;
+    skos:broader <http://rlp.de/50509903> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/535100C8-B6CB-44B3-925A-781B61CA1273> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099030101>,
+        <http://rlp.de/505099030102> ;
+    skos:notation "3.1." ;
+    skos:note "Produzieren und Präsentieren"@de ;
+    skos:prefLabel "Produzieren und Präsentieren"@de .
+
+<http://rlp.de/5050990302> a skos:Concept ;
+    skos:broader <http://rlp.de/50509903> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A3D4CB50-54AF-48EA-B97D-2CC92A579CC4> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099030201>,
+        <http://rlp.de/505099030202> ;
+    skos:notation "3.2." ;
+    skos:note "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
+    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de .
+
+<http://rlp.de/5050990401> a skos:Concept ;
+    skos:broader <http://rlp.de/50509904> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/D812DABA-BF00-453B-B4EE-7098174FB085> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099040101>,
+        <http://rlp.de/505099040102> ;
+    skos:notation "4.1." ;
+    skos:note "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
+    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de .
+
+<http://rlp.de/5050990503> a skos:Concept ;
+    skos:broader <http://rlp.de/50509905> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/7E3ABDA4-5E3F-46AA-9B94-19DD0784CAB5> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099050301>,
+        <http://rlp.de/505099050302> ;
+    skos:notation "5.3." ;
+    skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+
+<http://rlp.de/5050990504> a skos:Concept ;
+    skos:broader <http://rlp.de/50509905> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/A8063FA9-882C-44A6-9E91-DF85C781B6FB> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099050401>,
+        <http://rlp.de/505099050402> ;
+    skos:notation "5.4." ;
+    skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+
+<http://rlp.de/5050990205> a skos:Concept ;
+    skos:broader <http://rlp.de/50509902> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/89C99EB8-C56F-4A77-844C-C5C74DEAA5B0> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099020501>,
+        <http://rlp.de/505099020502>,
+        <http://rlp.de/505099020503> ;
+    skos:notation "2.5." ;
+    skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+
+<http://rlp.de/5050990303> a skos:Concept ;
+    skos:broader <http://rlp.de/50509903> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/ACFF453C-4B8B-466F-B2EA-2D308CB43D7A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099030301>,
+        <http://rlp.de/505099030302>,
+        <http://rlp.de/505099030303> ;
+    skos:notation "3.3." ;
+    skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+
+<http://rlp.de/50509904> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/4183F865-E001-47C1-B0C9-FE6EB5660ABE> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990401>,
+        <http://rlp.de/5050990402>,
+        <http://rlp.de/5050990403>,
+        <http://rlp.de/5050990404> ;
+    skos:notation "4." ;
+    skos:note "Problembewusst und sicher agieren"@de ;
+    skos:prefLabel "Problembewusst und sicher agieren"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/5050990403> a skos:Concept ;
+    skos:broader <http://rlp.de/50509904> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/84C60310-25DF-4FB7-BCD0-1E4075619AEA> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099040301>,
+        <http://rlp.de/505099040302>,
+        <http://rlp.de/505099040303> ;
+    skos:notation "4.3." ;
+    skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+
+<http://rlp.de/5050990501> a skos:Concept ;
+    skos:broader <http://rlp.de/50509905> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/76A5E561-DFA2-4073-A4F6-0E29EC0B26B6> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099050101>,
+        <http://rlp.de/505099050102>,
+        <http://rlp.de/505099050103> ;
+    skos:notation "5.1." ;
+    skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+
+<http://rlp.de/5050990505> a skos:Concept ;
+    skos:broader <http://rlp.de/50509905> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/262679FB-D967-4FEC-B2E9-559D29038E6A> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099050501>,
+        <http://rlp.de/505099050502>,
+        <http://rlp.de/505099050503> ;
+    skos:notation "5.5." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/5050990601> a skos:Concept ;
+    skos:broader <http://rlp.de/50509906> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/C95DBED2-0BDB-49E3-8590-764779708C05> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099060101>,
+        <http://rlp.de/505099060102>,
+        <http://rlp.de/505099060103> ;
+    skos:notation "6.1." ;
+    skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+
+<http://rlp.de/5050990101> a skos:Concept ;
+    skos:broader <http://rlp.de/50509901> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/01A03699-266A-4A8D-A8A8-BFA9BA0CB1AF> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099010101>,
+        <http://rlp.de/505099010102>,
+        <http://rlp.de/505099010103>,
+        <http://rlp.de/505099010104> ;
+    skos:notation "1.1." ;
+    skos:note "Informieren und Recherchieren"@de ;
+    skos:prefLabel "Informieren und Recherchieren"@de .
+
+<http://rlp.de/50509902> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/5490EF24-A2EE-4A93-8F06-D4E535A5667D> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990201>,
+        <http://rlp.de/5050990202>,
+        <http://rlp.de/5050990203>,
+        <http://rlp.de/5050990204>,
+        <http://rlp.de/5050990205> ;
+    skos:notation "2." ;
+    skos:note "Kommunizieren und Kooperieren"@de ;
+    skos:prefLabel "Kommunizieren und Kooperieren"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/5050990204> a skos:Concept ;
+    skos:broader <http://rlp.de/50509902> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/91DB462E-1B30-47AE-A149-3E61B91F4512> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099020401>,
+        <http://rlp.de/505099020402>,
+        <http://rlp.de/505099020403>,
+        <http://rlp.de/505099020404> ;
+    skos:notation "2.4." ;
+    skos:note "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
+    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de .
+
+<http://rlp.de/5050990402> a skos:Concept ;
+    skos:broader <http://rlp.de/50509904> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/975C9AFF-0F15-48AB-8238-24E72A614E68> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099040201>,
+        <http://rlp.de/505099040202>,
+        <http://rlp.de/505099040203>,
+        <http://rlp.de/505099040204> ;
+    skos:notation "4.2." ;
+    skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+
+<http://rlp.de/50509905> a skos:Concept ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/3A80F194-4CA1-43A1-B67A-E815B16BEFE5> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/5050990501>,
+        <http://rlp.de/5050990502>,
+        <http://rlp.de/5050990503>,
+        <http://rlp.de/5050990504>,
+        <http://rlp.de/5050990505> ;
+    skos:notation "5." ;
+    skos:note "Anwenden und Handeln"@de ;
+    skos:prefLabel "Anwenden und Handeln"@de ;
+    skos:topConceptOf <http://rlp.de/50> .
+
+<http://rlp.de/5050990502> a skos:Concept ;
+    skos:broader <http://rlp.de/50509905> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/FB52C6CD-834C-4694-B093-C5333534F900> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099050201>,
+        <http://rlp.de/505099050202>,
+        <http://rlp.de/505099050203>,
+        <http://rlp.de/505099050204> ;
+    skos:notation "5.2." ;
+    skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+
+<http://rlp.de/5050990602> a skos:Concept ;
+    skos:broader <http://rlp.de/50509906> ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/2C455193-6E3B-4532-98B4-80494E5684A0> ;
+    skos:inScheme <http://rlp.de/50> ;
+    skos:narrower <http://rlp.de/505099060201>,
+        <http://rlp.de/505099060202>,
+        <http://rlp.de/505099060203>,
+        <http://rlp.de/505099060204>,
+        <http://rlp.de/505099060205>,
+        <http://rlp.de/505099060206> ;
+    skos:notation "6.2." ;
+    skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+
+<http://rlp.de/50> a skos:ConceptScheme ;
+    dct:title "Medienkompass Rheinland-Pfalz (2017)"@de ;
+    skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/> ;
+    skos:note "11"@de .
+

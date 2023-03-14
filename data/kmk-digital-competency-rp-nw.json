@@ -1,0 +1,732 @@
+{
+  "get": [
+    {
+      "id": "50",
+      "description": "Kompetenzen in der digitalen Welt (KMK 2017)",
+      "mapping_id_RP": "11",
+      "mapping_description_RP": "Medienkompass Rheinland-Pfalz (2017)",
+      "mapping_id_NW": "52",
+      "mapping_description_NW": "Medienkompetenzrahmen (2017)"
+    },
+    {
+      "id": "5099",
+      "description": "ohne Jahrgangsstufen-Zuordnung",
+      "mapping_id_RP": "1199",
+      "mapping_description_RP": "ohne Jahrgangsstufen-Zuordnung",
+      "mapping_id_NW": "5299",
+      "mapping_description_NW": "ohne Jahrgangsstufen-Zuordnung"
+    },
+    {
+      "id": "509901",
+      "description": "Suchen, Verarbeiten und Aufbewahren",
+      "mapping_id_RP": "119905",
+      "mapping_description_RP": "Informieren und Recherchieren",
+      "mapping_id_NW": "529901; 529902",
+      "mapping_description_NW": "Bedienen und Anwenden|Informieren und Recherchieren"
+    },
+    {
+      "id": "50990101",
+      "description": "Suchen und Filtern",
+      "mapping_id_RP": "119905",
+      "mapping_description_RP": "Informieren und Recherchieren",
+      "mapping_id_NW": "529902",
+      "mapping_description_NW": "Informieren und Recherchieren"
+    },
+    {
+      "id": "5099010101",
+      "description": "Arbeits- und Suchinteressen kl\u00e4ren und festlegen",
+      "mapping_id_RP": "11990501",
+      "mapping_description_RP": "Arbeits- und Suchinteressen kl\u00e4ren, Strategien zur Informationsgewinnung entwickeln",
+      "mapping_id_NW": "52990201",
+      "mapping_description_NW": "Informationsrecherchen zielgerichtet durchf\u00fchren und dabei Suchstrategien anwenden"
+    },
+    {
+      "id": "5099010102",
+      "description": "Suchstrategien nutzen und weiterentwickeln",
+      "mapping_id_RP": "11990501",
+      "mapping_description_RP": "Arbeits- und Suchinteressen kl\u00e4ren, Strategien zur Informationsgewinnung entwickeln",
+      "mapping_id_NW": "52990201",
+      "mapping_description_NW": "Informationsrecherchen zielgerichtet durchf\u00fchren und dabei Suchstrategien anwenden"
+    },
+    {
+      "id": "5099010103",
+      "description": "In verschiedenen digitalen Umgebungen suchen",
+      "mapping_id_RP": "11990502",
+      "mapping_description_RP": "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz \u00fcberpr\u00fcfen",
+      "mapping_id_NW": "52990201",
+      "mapping_description_NW": "Informationsrecherchen zielgerichtet durchf\u00fchren und dabei Suchstrategien anwenden"
+    },
+    {
+      "id": "5099010104",
+      "description": "Relevante Quellen identifizieren und zusammenf\u00fchren",
+      "mapping_id_RP": "11990502",
+      "mapping_description_RP": "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz \u00fcberpr\u00fcfen",
+      "mapping_id_NW": "52990201;52990202",
+      "mapping_description_NW": "Informationsrecherchen zielgerichtet durchf\u00fchren und dabei Suchstrategien anwenden|Themenrelevante Informationen und Daten aus Medienangeboten filtern, strukturieren, umwandeln und aufbereiten"
+    },
+    {
+      "id": "50990102",
+      "description": "Auswerten und Bewerten",
+      "mapping_id_RP": "11990503",
+      "mapping_description_RP": "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten",
+      "mapping_id_NW": "529902",
+      "mapping_description_NW": "Informieren und Recherchieren"
+    },
+    {
+      "id": "5099010201",
+      "description": "Informationen und Daten analysieren, interpretieren und kritisch bewerten",
+      "mapping_id_RP": "11990503",
+      "mapping_description_RP": "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten",
+      "mapping_id_NW": "52990203",
+      "mapping_description_NW": "Informationen, Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten"
+    },
+    {
+      "id": "5099010202",
+      "description": "Informationsquellen analysieren und kritisch bewerten",
+      "mapping_id_RP": "11990503",
+      "mapping_description_RP": "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten",
+      "mapping_id_NW": "52990203",
+      "mapping_description_NW": "Informationen, Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten"
+    },
+    {
+      "id": "50990103",
+      "description": "Speichern und Abrufen",
+      "mapping_id_RP": "11990504",
+      "mapping_description_RP": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen",
+      "mapping_id_NW": "529901",
+      "mapping_description_NW": "Bedienen und Anwenden"
+    },
+    {
+      "id": "5099010301",
+      "description": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen",
+      "mapping_id_RP": "11990504",
+      "mapping_description_RP": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen",
+      "mapping_id_NW": "52990103",
+      "mapping_description_NW": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen; Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren"
+    },
+    {
+      "id": "5099010302",
+      "description": "Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren",
+      "mapping_id_RP": "11990504",
+      "mapping_description_RP": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen",
+      "mapping_id_NW": "52990103",
+      "mapping_description_NW": "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen; Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren"
+    },
+    {
+      "id": "509902",
+      "description": "Kommunizieren und Kooperieren",
+      "mapping_id_RP": "119906",
+      "mapping_description_RP": "Kommunizieren und Kooperieren",
+      "mapping_id_NW": "529901; 529903; 529904",
+      "mapping_description_NW": "Bedienen und Anwenden|Kommunizieren und Kooperieren|Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "50990201",
+      "description": "Interagieren",
+      "mapping_id_RP": "119906",
+      "mapping_description_RP": "Kommunizieren und Kooperieren",
+      "mapping_id_NW": "529903",
+      "mapping_description_NW": "Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099020101",
+      "description": "Mit Hilfe verschiedener digitaler Kommunikationsm\u00f6glichkeiten kommunizieren",
+      "mapping_id_RP": "11990601",
+      "mapping_description_RP": "Verschiedene digitale Kommunikationsm\u00f6glichkeiten heranziehen und verwenden",
+      "mapping_id_NW": "52990301",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "5099020102",
+      "description": "Digitale Kommunikationsm\u00f6glichkeiten zielgerichtet- und situationsgerecht ausw\u00e4hlen",
+      "mapping_id_RP": "11990602",
+      "mapping_description_RP": "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren",
+      "mapping_id_NW": "52990301",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "50990202",
+      "description": "Teilen",
+      "mapping_id_RP": "11990603",
+      "mapping_description_RP": "Digitale Werkzeuge und Ressourcen f\u00fcr die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen",
+      "mapping_id_NW": "529903;529904",
+      "mapping_description_NW": "Kommunizieren und Kooperieren|Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "5099020201",
+      "description": "Dateien, Informationen und Links teilen",
+      "mapping_id_RP": "11990603",
+      "mapping_description_RP": "Digitale Werkzeuge und Ressourcen f\u00fcr die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen",
+      "mapping_id_NW": "52990301",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "5099020202",
+      "description": "Referenzierungspraxis beherrschen (Quellenangaben)",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "52990403",
+      "mapping_description_NW": "Standards der Quellenangaben beim Produzieren und Pr\u00e4sentieren von eigenen und fremden Inhalten kennen und anwenden"
+    },
+    {
+      "id": "50990203",
+      "description": "Zusammenarbeiten",
+      "mapping_id_RP": "11990603",
+      "mapping_description_RP": "Digitale Werkzeuge und Ressourcen f\u00fcr die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen",
+      "mapping_id_NW": "529901;529903",
+      "mapping_description_NW": "Bedienen und Anwenden|Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099020301",
+      "description": "Digitale Werkzeuge f\u00fcr die Zusammenarbeit bei der Zusammenf\u00fchrung von Informationen, Daten und Ressourcen nutzen",
+      "mapping_id_RP": "11990603",
+      "mapping_description_RP": "Digitale Werkzeuge und Ressourcen f\u00fcr die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen",
+      "mapping_id_NW": "52990102;52990301",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen|Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "5099020302",
+      "description": "Digitale Werkzeuge bei der gemeinsamen Erarbeitung von Dokumenten nutzen",
+      "mapping_id_RP": "11990603",
+      "mapping_description_RP": "Digitale Werkzeuge und Ressourcen f\u00fcr die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen",
+      "mapping_id_NW": "52990102;52990301",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen|Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "50990204",
+      "description": "Umgangsregeln kennen und einhalten (Netiquette)",
+      "mapping_id_RP": "11990604",
+      "mapping_description_RP": "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen",
+      "mapping_id_NW": "529903",
+      "mapping_description_NW": "Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099020401",
+      "description": "Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden",
+      "mapping_id_RP": "11990604",
+      "mapping_description_RP": "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen",
+      "mapping_id_NW": "52990302",
+      "mapping_description_NW": "Regeln f\u00fcr digitale Kommunikation und Kooperation kennen, formulieren und einhalten"
+    },
+    {
+      "id": "5099020402",
+      "description": "Kommunikation der jeweiligen Umgebung anpassen",
+      "mapping_id_RP": "11990601",
+      "mapping_description_RP": "Verschiedene digitale Kommunikationsm\u00f6glichkeiten heranziehen und verwenden",
+      "mapping_id_NW": "52990302",
+      "mapping_description_NW": "Regeln f\u00fcr digitale Kommunikation und Kooperation kennen, formulieren und einhalten"
+    },
+    {
+      "id": "5099020403",
+      "description": "Ethische Prinzipien bei der Kommunikation kennen und ber\u00fccksichtigen",
+      "mapping_id_RP": "11990602",
+      "mapping_description_RP": "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren",
+      "mapping_id_NW": "52990302",
+      "mapping_description_NW": "Regeln f\u00fcr digitale Kommunikation und Kooperation kennen, formulieren und einhalten"
+    },
+    {
+      "id": "5099020404",
+      "description": "Kulturelle Vielfalt in digitalen Umgebungen ber\u00fccksichtigen",
+      "mapping_id_RP": "11990602",
+      "mapping_description_RP": "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren",
+      "mapping_id_NW": "52990302",
+      "mapping_description_NW": "Regeln f\u00fcr digitale Kommunikation und Kooperation kennen, formulieren und einhalten"
+    },
+    {
+      "id": "50990205",
+      "description": "An der Gesellschaft aktiv teilhaben",
+      "mapping_id_RP": "11990301",
+      "mapping_description_RP": "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bed\u00fcrfnisse sowie gesellschaftliche Folgen einsch\u00e4tzen",
+      "mapping_id_NW": "529903",
+      "mapping_description_NW": "Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099020501",
+      "description": "\u00d6ffentliche und private Dienste nutzen",
+      "mapping_id_RP": "11990601",
+      "mapping_description_RP": "Verschiedene digitale Kommunikationsm\u00f6glichkeiten heranziehen und verwenden",
+      "mapping_id_NW": "52990303",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse im Sinne einer aktiven Teilhabe an der Gesellschaft gestalten und reflektieren; ethische Grunds\u00e4tze sowie kulturell-gesellschaftliche Normen beachten"
+    },
+    {
+      "id": "5099020502",
+      "description": "Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen",
+      "mapping_id_RP": "11990303",
+      "mapping_description_RP": "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen",
+      "mapping_id_NW": "52990303",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse im Sinne einer aktiven Teilhabe an der Gesellschaft gestalten und reflektieren; ethische Grunds\u00e4tze sowie kulturell-gesellschaftliche Normen beachten"
+    },
+    {
+      "id": "5099020503",
+      "description": "Als selbstbestimmter B\u00fcrger aktiv an der Gesellschaft teilhaben",
+      "mapping_id_RP": "11990304",
+      "mapping_description_RP": "Die Potenziale der Digitalisierung f\u00fcr die eigene Weiterentwicklung, f\u00fcr soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen",
+      "mapping_id_NW": "52990303",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse im Sinne einer aktiven Teilhabe an der Gesellschaft gestalten und reflektieren; ethische Grunds\u00e4tze sowie kulturell-gesellschaftliche Normen beachten"
+    },
+    {
+      "id": "509903",
+      "description": "Produzieren und Pr\u00e4sentieren",
+      "mapping_id_RP": "119904",
+      "mapping_description_RP": "Produzieren und Pr\u00e4sentieren",
+      "mapping_id_NW": "529901;529902;529904",
+      "mapping_description_NW": "Bedienen und Anwenden|Informieren und Recherchieren|Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "50990301",
+      "description": "Entwickeln und Produzieren",
+      "mapping_id_RP": "119904",
+      "mapping_description_RP": "Produzieren und Pr\u00e4sentieren",
+      "mapping_id_NW": "529901;529904",
+      "mapping_description_NW": "Bedienen und Anwenden|Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "5099030101",
+      "description": "Mehrere technische Bearbeitungswerkzeuge kennen und anwenden",
+      "mapping_id_RP": "11990401",
+      "mapping_description_RP": "Eine Produktion planen und mit verschiedenen digitalen M\u00f6glichkeiten ausgestalten",
+      "mapping_id_NW": "52990101;52990102",
+      "mapping_description_NW": "Medienausstattung (Hardware) kennen, ausw\u00e4hlen und reflektiert anwenden; mit dieser verantwortungsvoll umgehen|Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099030102",
+      "description": "Eine Produktion planen und in verschiedenen Formaten gestalten, pr\u00e4sentieren, ver\u00f6ffentlichen oder teilen",
+      "mapping_id_RP": "11990401",
+      "mapping_description_RP": "Eine Produktion planen und mit verschiedenen digitalen M\u00f6glichkeiten ausgestalten",
+      "mapping_id_NW": "52990401",
+      "mapping_description_NW": "Medienprodukte adressatengerecht planen, gestalten und pr\u00e4sentieren; M\u00f6glichkeiten des Ver\u00f6ffentlichens und Teilens kennen und nutzen"
+    },
+    {
+      "id": "50990302",
+      "description": "Weiterverarbeiten und Integrieren",
+      "mapping_id_RP": "11990402",
+      "mapping_description_RP": "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsm\u00f6glichkeiten erweitern",
+      "mapping_id_NW": "529902;529904",
+      "mapping_description_NW": "Informieren und Recherchieren|Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "5099030201",
+      "description": "Inhalte in verschiedenen Formaten bearbeiten, zusammenf\u00fchren, pr\u00e4sentieren und ver\u00f6ffentlichen oder teilen",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "52990202;52990401",
+      "mapping_description_NW": "Themenrelevante Informationen und Daten aus Medienangeboten filtern, strukturieren, umwandeln und aufbereiten|Medienprodukte adressatengerecht planen, gestalten und pr\u00e4sentieren; M\u00f6glichkeiten des Ver\u00f6ffentlichens und Teilens kennen und nutzen"
+    },
+    {
+      "id": "5099030202",
+      "description": "Informationen, Inhalte und vorhandene digitale Produkte weiterverarbeiten und in bestehendes Wissen integrieren",
+      "mapping_id_RP": "11990402",
+      "mapping_description_RP": "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsm\u00f6glichkeiten erweitern",
+      "mapping_id_NW": "52990202",
+      "mapping_description_NW": "Themenrelevante Informationen und Daten aus Medienangeboten filtern, strukturieren, umwandeln und aufbereiten"
+    },
+    {
+      "id": "50990303",
+      "description": "Rechtliche Vorgaben beachten",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "529904",
+      "mapping_description_NW": "Produzieren und Pr\u00e4sentieren"
+    },
+    {
+      "id": "5099030301",
+      "description": "Bedeutung von Urheberrecht und geistigem Eigentum kennen",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "52990404",
+      "mapping_description_NW": "Rechtliche Grundlagen des Pers\u00f6nlichkeits- (u.a. des Bildrechts), Urheber- und Nutzungsrechts (u.a. Lizenzen) \u00fcberpr\u00fcfen, bewerten und beachten"
+    },
+    {
+      "id": "5099030302",
+      "description": "Urheber- und Nutzungsrechte (Lizenzen) bei eigenen und fremden Werken ber\u00fccksichtigen",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "52990404",
+      "mapping_description_NW": "Rechtliche Grundlagen des Pers\u00f6nlichkeits- (u.a. des Bildrechts), Urheber- und Nutzungsrechts (u.a. Lizenzen) \u00fcberpr\u00fcfen, bewerten und beachten"
+    },
+    {
+      "id": "5099030303",
+      "description": "Pers\u00f6nlichkeitsrechte beachten",
+      "mapping_id_RP": "11990403",
+      "mapping_description_RP": "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- f\u00fchren und weiterverarbeiten",
+      "mapping_id_NW": "52990404",
+      "mapping_description_NW": "Rechtliche Grundlagen des Pers\u00f6nlichkeits- (u.a. des Bildrechts), Urheber- und Nutzungsrechts (u.a. Lizenzen) \u00fcberpr\u00fcfen, bewerten und beachten"
+    },
+    {
+      "id": "509904",
+      "description": "Sch\u00fctzen und sicher Agieren",
+      "mapping_id_RP": "119902",
+      "mapping_description_RP": "Problembewusst und sicher agieren",
+      "mapping_id_NW": "529901;529902;529903;529905",
+      "mapping_description_NW": "Bedienen und Anwenden|Informieren und Recherchieren|Kommunizieren und Kooperieren|Analysieren und Reflektieren"
+    },
+    {
+      "id": "50990401",
+      "description": "Sicher in digitalen Umgebungen agieren",
+      "mapping_id_RP": "11990201",
+      "mapping_description_RP": "Chancen und Risiken digitaler Umgebungen benennen und einsch\u00e4tzen",
+      "mapping_id_NW": "529901;529903",
+      "mapping_description_NW": "Bedienen und Anwenden|Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099040101",
+      "description": "Risiken und Gefahren in digitalen Umgebungen kennen, reflektieren und ber\u00fccksichtigen",
+      "mapping_id_RP": "11990201",
+      "mapping_description_RP": "Chancen und Risiken digitaler Umgebungen benennen und einsch\u00e4tzen",
+      "mapping_id_NW": "52990104;52990304",
+      "mapping_description_NW": "Verantwortungsvoll mit pers\u00f6nlichen und fremden Daten umgehen; Datenschutz, Privatsph\u00e4re und Informationssicherheit beachten|Pers\u00f6nliche, gesellschaftliche und wirtschaftliche Risiken und Auswirkungen von Cybergewalt und -kriminalit\u00e4t erkennen sowie Ansprechpartner und Reaktionsm\u00f6glichkeiten kennen und nutzen"
+    },
+    {
+      "id": "5099040102",
+      "description": "Strategien zum Schutz entwickeln und anwenden",
+      "mapping_id_RP": "11990202",
+      "mapping_description_RP": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_NW": "52990104",
+      "mapping_description_NW": "Verantwortungsvoll mit pers\u00f6nlichen und fremden Daten umgehen; Datenschutz, Privatsph\u00e4re und Informationssicherheit beachten"
+    },
+    {
+      "id": "50990402",
+      "description": "Pers\u00f6nliche Daten und Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_RP": "11990202",
+      "mapping_description_RP": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_NW": "529901;529902;529905",
+      "mapping_description_NW": "Bedienen und Anwenden|Informieren und Recherchieren|Analysieren und Reflektieren"
+    },
+    {
+      "id": "5099040201",
+      "description": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ber\u00fccksichtigen",
+      "mapping_id_RP": "11990202",
+      "mapping_description_RP": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_NW": "52990104",
+      "mapping_description_NW": "Verantwortungsvoll mit pers\u00f6nlichen und fremden Daten umgehen; Datenschutz, Privatsph\u00e4re und Informationssicherheit beachten"
+    },
+    {
+      "id": "5099040202",
+      "description": "Privatsph\u00e4re in digitalen Umgebungen durch geeignete Ma\u00dfnahmen sch\u00fctzen",
+      "mapping_id_RP": "11990202",
+      "mapping_description_RP": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_NW": "52990104",
+      "mapping_description_NW": "Verantwortungsvoll mit pers\u00f6nlichen und fremden Daten umgehen; Datenschutz, Privatsph\u00e4re und Informationssicherheit beachten"
+    },
+    {
+      "id": "5099040203",
+      "description": "Sicherheitseinstellungen st\u00e4ndig aktualisieren",
+      "mapping_id_RP": "11990202",
+      "mapping_description_RP": "Ma\u00dfnahmen f\u00fcr Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsph\u00e4re sch\u00fctzen",
+      "mapping_id_NW": "52990104",
+      "mapping_description_NW": "Verantwortungsvoll mit pers\u00f6nlichen und fremden Daten umgehen; Datenschutz, Privatsph\u00e4re und Informationssicherheit beachten"
+    },
+    {
+      "id": "5099040204",
+      "description": "Jugendschutz- und Verbraucherschutzma\u00dfnahmen ber\u00fccksichtigen",
+      "mapping_id_RP": "11990203",
+      "mapping_description_RP": "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen",
+      "mapping_id_NW": "52990204;52990504",
+      "mapping_description_NW": "Unangemessene und gef\u00e4hrdende Medieninhalte erkennen und hinsichtlich rechtlicher Grundlagen sowie gesellschaftlicher Normen und Werte einsch\u00e4tzen; Jugend- und Verbraucherschutz kennen und Hilfs- und Unterst\u00fctzungsstrukturen nutzen|Medien und ihre Wirkungen beschreiben, kritisch reflektieren und deren Nutzung selbstverantwortlich regulieren; andere bei ihrer Mediennutzung unterst\u00fctzen"
+    },
+    {
+      "id": "50990403",
+      "description": "Gesundheit sch\u00fctzen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "529903;529905",
+      "mapping_description_NW": "Kommunizieren und Kooperieren|Analysieren und Reflektieren"
+    },
+    {
+      "id": "5099040301",
+      "description": "Suchtgefahren vermeiden, sich Selbst und andere vor m\u00f6glichen Gefahren sch\u00fctzen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "52990504",
+      "mapping_description_NW": "Medien und ihre Wirkungen beschreiben, kritisch reflektieren und deren Nutzung selbstverantwortlich regulieren; andere bei ihrer Mediennutzung unterst\u00fctzen"
+    },
+    {
+      "id": "5099040302",
+      "description": "Digitale Technologien gesundheitsbewusst nutzen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "52990504",
+      "mapping_description_NW": "Medien und ihre Wirkungen beschreiben, kritisch reflektieren und deren Nutzung selbstverantwortlich regulieren; andere bei ihrer Mediennutzung unterst\u00fctzen"
+    },
+    {
+      "id": "5099040303",
+      "description": "Digitale Technologien f\u00fcr soziales Wohlergehen und Eingliederung nutzen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "52990303",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse im Sinne einer aktiven Teilhabe an der Gesellschaft gestalten und reflektieren; ethische Grunds\u00e4tze sowie kulturell-gesellschaftliche Normen beachten"
+    },
+    {
+      "id": "50990404",
+      "description": "Natur und Umwelt sch\u00fctzen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "529901;529905",
+      "mapping_description_NW": "Bedienen und Anwenden|Analysieren und Reflektieren"
+    },
+    {
+      "id": "5099040401",
+      "description": "Umweltauswirkungen digitaler Technologien ber\u00fccksichtigen",
+      "mapping_id_RP": "11990204",
+      "mapping_description_RP": "Folgen f\u00fcr Gesundheit und Umwelt einsch\u00e4tzen, reflektiert, verantwortungsbewusst und nachhaltig handeln",
+      "mapping_id_NW": "52990101;52990501",
+      "mapping_description_NW": "Medienausstattung (Hardware) kennen, ausw\u00e4hlen und reflektiert anwenden; mit dieser verantwortungsvoll umgehen|Die Vielfalt der Medien, ihre Entwicklung und Bedeutungen kennen, analysieren und reflektieren"
+    },
+    {
+      "id": "509905",
+      "description": "Probleml\u00f6sen und Handeln",
+      "mapping_id_RP": "119901",
+      "mapping_description_RP": "Anwenden und Handeln",
+      "mapping_id_NW": "529901;529903;529906",
+      "mapping_description_NW": "Bedienen und Anwenden|Kommunizieren und Kooperieren|Probleml\u00f6sen und Modellieren"
+    },
+    {
+      "id": "50990501",
+      "description": "Technische Probleme l\u00f6sen",
+      "mapping_id_RP": "11990101",
+      "mapping_description_RP": "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen",
+      "mapping_id_NW": "529906",
+      "mapping_description_NW": "Probleml\u00f6sen und Modellieren"
+    },
+    {
+      "id": "5099050101",
+      "description": "Anforderungen an digitale Umgebungen formulieren",
+      "mapping_id_RP": "11990101",
+      "mapping_description_RP": "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen",
+      "mapping_id_NW": "52990603",
+      "mapping_description_NW": "Probleme formalisiert beschreiben, Probleml\u00f6sestrategien entwickeln und dazu eine strukturierte, algorithmische Sequenz planen; diese auch durch Programmieren umsetzen und die gefundene L\u00f6sungsstrategie beurteilen"
+    },
+    {
+      "id": "5099050102",
+      "description": "Technische Probleme identifizieren",
+      "mapping_id_RP": "11990101",
+      "mapping_description_RP": "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen",
+      "mapping_id_NW": "52990603",
+      "mapping_description_NW": "Probleme formalisiert beschreiben, Probleml\u00f6sestrategien entwickeln und dazu eine strukturierte, algorithmische Sequenz planen; diese auch durch Programmieren umsetzen und die gefundene L\u00f6sungsstrategie beurteilen"
+    },
+    {
+      "id": "5099050103",
+      "description": "Bedarfe f\u00fcr L\u00f6sungen ermitteln und L\u00f6sungen finden bzw. L\u00f6sungsstrategien entwickeln",
+      "mapping_id_RP": "11990103",
+      "mapping_description_RP": "Passende Strategien und L\u00f6sungswege entwickeln, Ergebnisse mit anderen teilen",
+      "mapping_id_NW": "52990603",
+      "mapping_description_NW": "Probleme formalisiert beschreiben, Probleml\u00f6sestrategien entwickeln und dazu eine strukturierte, algorithmische Sequenz planen; diese auch durch Programmieren umsetzen und die gefundene L\u00f6sungsstrategie beurteilen"
+    },
+    {
+      "id": "50990502",
+      "description": "Werkzeuge bedarfsgerecht einsetzen",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "529901",
+      "mapping_description_NW": "Bedienen und Anwenden"
+    },
+    {
+      "id": "5099050201",
+      "description": "Eine Vielzahl von digitalen Werkzeugen kennen und kreativ anwenden",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990102",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099050202",
+      "description": "Anforderungen an digitale Werkzeuge formulieren",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990102",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099050203",
+      "description": "Passende Werkzeuge zur L\u00f6sung identifizieren",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990102",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099050204",
+      "description": "Digitale Umgebungen und Werkzeuge zum pers\u00f6nlichen Gebrauch anpassen",
+      "mapping_id_RP": "11990102",
+      "mapping_description_RP": "Digitale Lernangebote und Arbeitsumgebungen f\u00fcr den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen",
+      "mapping_id_NW": "52990101;52990102",
+      "mapping_description_NW": "Medienausstattung (Hardware) kennen, ausw\u00e4hlen und reflektiert anwenden; mit dieser verantwortungsvoll umgehen|Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "50990503",
+      "description": "Eigene Defizite ermitteln und nach L\u00f6sungen suchen",
+      "mapping_id_RP": "11990103",
+      "mapping_description_RP": "Passende Strategien und L\u00f6sungswege entwickeln, Ergebnisse mit anderen teilen",
+      "mapping_id_NW": "529901;529903",
+      "mapping_description_NW": "Bedienen und Anwenden|Kommunizieren und Kooperieren"
+    },
+    {
+      "id": "5099050301",
+      "description": "Eigene Defizite bei der Nutzung digitaler Werkzeuge erkennen und Strategien zur Beseitigung entwickeln",
+      "mapping_id_RP": "11990103",
+      "mapping_description_RP": "Passende Strategien und L\u00f6sungswege entwickeln, Ergebnisse mit anderen teilen",
+      "mapping_id_NW": "52990102",
+      "mapping_description_NW": "Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099050302",
+      "description": "Eigene Strategien zur Probleml\u00f6sung mit anderen teilen",
+      "mapping_id_RP": "11990103",
+      "mapping_description_RP": "Passende Strategien und L\u00f6sungswege entwickeln, Ergebnisse mit anderen teilen",
+      "mapping_id_NW": "52990301",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse mit digitalen Werkzeugen zielgerichtet gestalten sowie mediale Produkte und Informationen teilen"
+    },
+    {
+      "id": "50990504",
+      "description": "Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Probleml\u00f6sen nutzen",
+      "mapping_id_RP": "11990102",
+      "mapping_description_RP": "Digitale Lernangebote und Arbeitsumgebungen f\u00fcr den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen",
+      "mapping_id_NW": "529901",
+      "mapping_description_NW": "Bedienen und Anwenden"
+    },
+    {
+      "id": "5099050401",
+      "description": "Effektive digitale Lernm\u00f6glichkeiten finden, bewerten und nutzen",
+      "mapping_id_RP": "11990102",
+      "mapping_description_RP": "Digitale Lernangebote und Arbeitsumgebungen f\u00fcr den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen",
+      "mapping_id_NW": "52990101;52990102",
+      "mapping_description_NW": "Medienausstattung (Hardware) kennen, ausw\u00e4hlen und reflektiert anwenden; mit dieser verantwortungsvoll umgehen|Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen"
+    },
+    {
+      "id": "5099050402",
+      "description": "Pers\u00f6nliches System von vernetzten digitalen Lernressourcen selbst organisieren k\u00f6nnen",
+      "mapping_id_RP": "11990103",
+      "mapping_description_RP": "Passende Strategien und L\u00f6sungswege entwickeln, Ergebnisse mit anderen teilen",
+      "mapping_id_NW": "52990101;52990102;52990103",
+      "mapping_description_NW": "Medienausstattung (Hardware) kennen, ausw\u00e4hlen und reflektiert anwenden; mit dieser verantwortungsvoll umgehen|Verschiedene digitale Werkzeuge und deren Funktionsumfang kennen, ausw\u00e4hlen sowie diese kreativ, reflektiert und zielgerichtet einsetzen|Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen; Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren"
+    },
+    {
+      "id": "50990505",
+      "description": "Algorithmen erkennen und formulieren",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "529906",
+      "mapping_description_NW": "Probleml\u00f6sen und Modellieren"
+    },
+    {
+      "id": "5099050501",
+      "description": "Funktionsweisen und grundlegende Prinzipien der digitalen Welt kennen und verstehen",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990601;52990604",
+      "mapping_description_NW": "Grundlegende Prinzipien und Funktionsweisen der digitalen Welt identifizieren, kennen, verstehen und bewusst nutzen|Einfl\u00fcsse von Algorithmen und Auswirkung der Automatisierung von Prozessen in der digitalen Welt beschreiben und reflektieren"
+    },
+    {
+      "id": "5099050502",
+      "description": "Algorithmische Strukturen in genutzten digitalen Tools erkennen und formulieren",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990602;52990603",
+      "mapping_description_NW": "Algorithmische Muster und Strukturen in verschiedenen Kontexten erkennen, nachvollziehen und reflektieren|Probleme formalisiert beschreiben, Probleml\u00f6sestrategien entwickeln und dazu eine strukturierte, algorithmische Sequenz planen; diese auch durch Programmieren umsetzen und die gefundene L\u00f6sungsstrategie beurteilen"
+    },
+    {
+      "id": "5099050503",
+      "description": "Eine strukturierte, algorithmische Sequenz zur L\u00f6sung eines Problems planen und verwenden",
+      "mapping_id_RP": "11990104",
+      "mapping_description_RP": "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden",
+      "mapping_id_NW": "52990603",
+      "mapping_description_NW": "Probleme formalisiert beschreiben, Probleml\u00f6sestrategien entwickeln und dazu eine strukturierte, algorithmische Sequenz planen; diese auch durch Programmieren umsetzen und die gefundene L\u00f6sungsstrategie beurteilen"
+    },
+    {
+      "id": "509906",
+      "description": "Analysieren und Reflektieren",
+      "mapping_id_RP": "119903",
+      "mapping_description_RP": "Analysieren und Reflektrieren",
+      "mapping_id_NW": "529902;529903;529904;529905;529906",
+      "mapping_description_NW": "Informieren und Recherchieren|Kommunizieren und Kooperieren|Produzieren und Pr\u00e4sentieren|Analysieren und Reflektieren|Probleml\u00f6sen und Modellieren"
+    },
+    {
+      "id": "50990601",
+      "description": "Medien analysieren und bewerten",
+      "mapping_id_RP": "11990302",
+      "mapping_description_RP": "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten",
+      "mapping_id_NW": "529902;529904;529905",
+      "mapping_description_NW": "Informieren und Recherchieren|Produzieren und Pr\u00e4sentieren|Analysieren und Reflektieren"
+    },
+    {
+      "id": "5099060101",
+      "description": "Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten",
+      "mapping_id_RP": "11990303",
+      "mapping_description_RP": "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen",
+      "mapping_id_NW": "52990402",
+      "mapping_description_NW": "Gestaltungsmittel von Medienprodukten kennen, reflektiert anwenden sowie hinsichtlich ihrer Qualit\u00e4t, Wirkung und Aussageabsicht beurteilen"
+    },
+    {
+      "id": "5099060102",
+      "description": "Interessengeleitete Setzung, Verbreitung und Dominanz von Themen in digitalen Umgebungen erkennen und beurteilen",
+      "mapping_id_RP": "11990303",
+      "mapping_description_RP": "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen",
+      "mapping_id_NW": "52990203;52990502",
+      "mapping_description_NW": "Informationen, Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten|Die interessengeleitete Setzung und Verbreitung von Themen in Medien erkennen sowie in Bezug auf die Meinungsbildung beurteilen"
+    },
+    {
+      "id": "5099060103",
+      "description": "Wirkungen von Medien in der digitalen Welt (z. B. mediale Konstrukte, Stars, Idole, Computerspiele, mediale Gewaltdarstellungen) analysieren und konstruktiv damit umgehen",
+      "mapping_id_RP": "11990302",
+      "mapping_description_RP": "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten",
+      "mapping_id_NW": "52990503;52990504",
+      "mapping_description_NW": "Chancen und Herausforderungen von Medien f\u00fcr die Realit\u00e4tswahrnehmung erkennen und analysieren sowie f\u00fcr die eigene Identit\u00e4tsbildung nutzen|Medien und ihre Wirkungen beschreiben, kritisch reflektieren und deren Nutzung selbstverantwortlich regulieren; andere bei ihrer Mediennutzung unterst\u00fctzen"
+    },
+    {
+      "id": "50990602",
+      "description": "Medien in der digitalen Welt verstehen und reflektieren",
+      "mapping_id_RP": "11990301",
+      "mapping_description_RP": "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bed\u00fcrfnisse sowie gesellschaftliche Folgen einsch\u00e4tzen",
+      "mapping_id_NW": "529903;529905;529906",
+      "mapping_description_NW": "Kommunizieren und Kooperieren|Analysieren und Reflektieren|Probleml\u00f6sen und Modellieren"
+    },
+    {
+      "id": "5099060201",
+      "description": "Vielfalt der digitalen Medienlandschaft kennen",
+      "mapping_id_RP": "11990301",
+      "mapping_description_RP": "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bed\u00fcrfnisse sowie gesellschaftliche Folgen einsch\u00e4tzen",
+      "mapping_id_NW": "52990501",
+      "mapping_description_NW": "Die Vielfalt der Medien, ihre Entwicklung und Bedeutungen kennen, analysieren und reflektieren"
+    },
+    {
+      "id": "5099060202",
+      "description": "Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebensbereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifizieren",
+      "mapping_id_RP": "11990302",
+      "mapping_description_RP": "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten",
+      "mapping_id_NW": "52990504",
+      "mapping_description_NW": "Medien und ihre Wirkungen beschreiben, kritisch reflektieren und deren Nutzung selbstverantwortlich regulieren; andere bei ihrer Mediennutzung unterst\u00fctzen"
+    },
+    {
+      "id": "5099060203",
+      "description": "Vorteile und Risiken von Gesch\u00e4ftsaktivit\u00e4ten und Services im Internet analysieren und beurteilen",
+      "mapping_id_RP": "11990304",
+      "mapping_description_RP": "Die Potenziale der Digitalisierung f\u00fcr die eigene Weiterentwicklung, f\u00fcr soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen",
+      "mapping_id_NW": "52990501;52990604",
+      "mapping_description_NW": "Die Vielfalt der Medien, ihre Entwicklung und Bedeutungen kennen, analysieren und reflektieren|Einfl\u00fcsse von Algorithmen und Auswirkung der Automatisierung von Prozessen in der digitalen Welt beschreiben und reflektieren"
+    },
+    {
+      "id": "5099060204",
+      "description": "Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologien kennen und sie f\u00fcr eigene Gesch\u00e4ftsideen nutzen",
+      "mapping_id_RP": "11990304",
+      "mapping_description_RP": "Die Potenziale der Digitalisierung f\u00fcr die eigene Weiterentwicklung, f\u00fcr soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen",
+      "mapping_id_NW": "52990501;52990604",
+      "mapping_description_NW": "Die Vielfalt der Medien, ihre Entwicklung und Bedeutungen kennen, analysieren und reflektieren|Einfl\u00fcsse von Algorithmen und Auswirkung der Automatisierung von Prozessen in der digitalen Welt beschreiben und reflektieren"
+    },
+    {
+      "id": "5099060205",
+      "description": "Die Bedeutung von digitalen Medien f\u00fcr die politische Meinungsbildung und Entscheidungsfindung kennen und nutzen",
+      "mapping_id_RP": "11990304",
+      "mapping_description_RP": "Die Potenziale der Digitalisierung f\u00fcr die eigene Weiterentwicklung, f\u00fcr soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen",
+      "mapping_id_NW": "52990502;52990604",
+      "mapping_description_NW": "Die interessengeleitete Setzung und Verbreitung von Themen in Medien erkennen sowie in Bezug auf die Meinungsbildung beurteilen|Einfl\u00fcsse von Algorithmen und Auswirkung der Automatisierung von Prozessen in der digitalen Welt beschreiben und reflektieren"
+    },
+    {
+      "id": "5099060206",
+      "description": "Potenziale der Digitalisierung im Sinne sozialer Integration und sozialer Teilhabe erkennen, analysieren und reflektieren",
+      "mapping_id_RP": "11990304",
+      "mapping_description_RP": "Die Potenziale der Digitalisierung f\u00fcr die eigene Weiterentwicklung, f\u00fcr soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen",
+      "mapping_id_NW": "52990303",
+      "mapping_description_NW": "Kommunikations- und Kooperationsprozesse im Sinne einer aktiven Teilhabe an der Gesellschaft gestalten und reflektieren; ethische Grunds\u00e4tze sowie kulturell-gesellschaftliche Normen beachten"
+    }
+  ]
+}
