@@ -1,0 +1,407 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://rlp.de/2761100000740606001063001001001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kenne den Computer. Ich kenne die Maus. Ich kenne die Tastatur. Ich kann den Computer anschalten und aussschalten. Ich kann die Maus bewegen u..."@de .
+
+<http://rlp.de/2761100000740606001063001001002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein Programm starten. Ich kann ein Programm beenden. "@de .
+
+<http://rlp.de/2761100000740606001063001001003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Ordner erstellen. Ich kann dem Ordner einen Namen geben. "@de .
+
+<http://rlp.de/2761100000740606001063001001004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Datei im Ordner speichern. Ich kann der Datei einen Namen geben. "@de .
+
+<http://rlp.de/2761100000740606001063001001005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich halte mich an die Computer-Regeln von meiner Schule. "@de .
+
+<http://rlp.de/2761100000740606001063001001006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001001000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ins Internet gehen. "@de .
+
+<http://rlp.de/2761100000740606001063001002001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein Text-Programm öffnen. "@de .
+
+<http://rlp.de/2761100000740606001063001002002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Text schreiben. "@de .
+
+<http://rlp.de/2761100000740606001063001002003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Text verbessern. "@de .
+
+<http://rlp.de/2761100000740606001063001002004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Text kopieren. Ich kann diesen Text in einen anderen Text einfügen. "@de .
+
+<http://rlp.de/2761100000740606001063001002005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Text ausschneiden. Ich kann diesen Text in einen anderen Text einfügen. "@de .
+
+<http://rlp.de/2761100000740606001063001002006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Bilder einfügen und verändern. "@de .
+
+<http://rlp.de/2761100000740606001063001002007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann einen Text speichern. "@de .
+
+<http://rlp.de/2761100000740606001063001002008> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann die Schrift verändern. "@de .
+
+<http://rlp.de/2761100000740606001063001002009> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Tabelle einfügen. "@de .
+
+<http://rlp.de/2761100000740606001063001002010> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001002000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann in eine Tabelle schreiben. "@de .
+
+<http://rlp.de/2761100000740606001063001003001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Musik oder Sprache aufnehmen. Zum Beispiel: mit dem Handy mit dem Tablet mit dem Mikrofon. "@de .
+
+<http://rlp.de/2761100000740606001063001003002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahme bearbeiten. Das heißt: Ich kann meine Aufnahme verändern. "@de .
+
+<http://rlp.de/2761100000740606001063001003003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahme speichern. Ich kann der Aufnahme einen Namen geben. "@de .
+
+<http://rlp.de/2761100000740606001063001003004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen löschen. "@de .
+
+<http://rlp.de/2761100000740606001063001003005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen präsentieren. Das heißt: Ich kann meine Aufnahmen vor anderen Menschen abspielen. "@de .
+
+<http://rlp.de/2761100000740606001063001003006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001003000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann beschreiben, was andere Menschen über meine Aufnahmen sagen. Sie sagen zum Beispiel: Die Aufnahmen sind gut schlecht langweilig span..."@de .
+
+<http://rlp.de/2761100000740606001063001004001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Fotos aufnehmen. Zum Beispiel: mit dem Smartphone mit dem Tablet mit der Kamera. "@de .
+
+<http://rlp.de/2761100000740606001063001004002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Fotos speichern. "@de .
+
+<http://rlp.de/2761100000740606001063001004003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Fotos bearbeiten. Das heißt: Ich kann Fotos verändern. "@de .
+
+<http://rlp.de/2761100000740606001063001004004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Fotos einen Namen geben. Ich kann Fotos ordnen, damit ich sie gut finden kann. "@de .
+
+<http://rlp.de/2761100000740606001063001004005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Fotos zeigen. Zum Beispiel: in einem Foto-Buch am Computer Ich kann Fotos drucken. "@de .
+
+<http://rlp.de/2761100000740606001063001004006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001004000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann beschreiben, was andere Menschen über meine Fotos sagen. Sie sagen zum Beispiel: Die Fotos sind gut schlecht langweilig spannend. Ich ..."@de .
+
+<http://rlp.de/2761100000740606001063001005001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001005000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Präsentation erstellen Das heißt: Ich zeige anderen Menschen eine Datei, die ich erstellt habe. Zum Beispiel: einen Text einen Te..."@de .
+
+<http://rlp.de/2761100000740606001063001005002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001005000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Präsentation speichern. Ich kann der Präsentation einen Namen geben. "@de .
+
+<http://rlp.de/2761100000740606001063001005003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001005000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Präsentation zeigen. "@de .
+
+<http://rlp.de/2761100000740606001063001005004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001005000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann beschreiben, was andere Menschenüber meine Präsentation sagen. Sie sagen zum Beispiel: Die Präsentation ist gut schlecht langweil..."@de .
+
+<http://rlp.de/2761100000740606001063001006001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein Rechen-Programm öffnen. "@de .
+
+<http://rlp.de/2761100000740606001063001006002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Rechen-Tabelle lesen. Das heißt: Ich kenne Zeilen Spalten Zellen. "@de .
+
+<http://rlp.de/2761100000740606001063001006003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Rechen-Tabelle anlegen. Das heißt: Ich weiß, wie viele Zeilen und Spalten ich brauche. "@de .
+
+<http://rlp.de/2761100000740606001063001006004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Zeichen in die Rechen-Tabelle eingeben. Ich kann Zahlen in die Rechen-Tabelle eingeben. "@de .
+
+<http://rlp.de/2761100000740606001063001006005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Zellen markieren. Ich kann Zellen verändern. Zum Beispiel mit Farben. Dann ist meine Rechen-Tabelle leichter zu lesen. "@de .
+
+<http://rlp.de/2761100000740606001063001006006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Rechen-Tabelle speichern. "@de .
+
+<http://rlp.de/2761100000740606001063001006007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001006000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann mit einer Rechen-Tabelle rechnen. Das heißt: Das Rechen-Programm rechnet für mich. "@de .
+
+<http://rlp.de/2761100000740606001063001007001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Infos im Internet finden. Das heißt: Ich kenne Such-Maschinen. Ich kann Wörter eingeben. Ich kann die besten Treffer auswählen. "@de .
+
+<http://rlp.de/2761100000740606001063001007002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Infos kopieren. Ich kann Infos speichern. "@de .
+
+<http://rlp.de/2761100000740606001063001007003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kenne Lese-Zeichen. Ich kann Lese-Zeichen speichern. Ich kann Infos wieder finden. "@de .
+
+<http://rlp.de/2761100000740606001063001007004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich lese Infos, die ich verstehe. Ich sehe Bilder an, die ich verstehe. Manche Infos sind für Kinder und Jugendliche verboten. Es gibt Regeln. ..."@de .
+
+<http://rlp.de/2761100000740606001063001007005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Manche Internet-Seiten sind nicht gut für Kinder und Jugendliche. Zum Beispiel: Weil auf diesen Seiten Gewalt gezeigt wird. Ich kann diese Seiten ..."@de .
+
+<http://rlp.de/2761100000740606001063001007006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann beschreiben, was in einem Film passiert. "@de .
+
+<http://rlp.de/2761100000740606001063001007007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001007000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann mit einem Lern-Programm arbeiten. "@de .
+
+<http://rlp.de/2761100000740606001063001008001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kenne E-Mails Ich kann eine E-Mail-Adresse erkennen. "@de .
+
+<http://rlp.de/2761100000740606001063001008002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein E-Mail-Programm öffnen. "@de .
+
+<http://rlp.de/2761100000740606001063001008003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine wichtige E-Mail erkennen. "@de .
+
+<http://rlp.de/2761100000740606001063001008004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine E-Mail öffnen und lesen. Ich kann den Inhalt erzählen. "@de .
+
+<http://rlp.de/2761100000740606001063001008005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine E-Mail schreiben. "@de .
+
+<http://rlp.de/2761100000740606001063001008006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine E-Mail senden. "@de .
+
+<http://rlp.de/2761100000740606001063001008007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann auf eine E-Mail antworten. Ich kann eine E-Mail weiterleiten. "@de .
+
+<http://rlp.de/2761100000740606001063001008008> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Dateien anhängen. Das nennt man Datei-Anhang. "@de .
+
+<http://rlp.de/2761100000740606001063001008009> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Datei-Anhänge öffnen. Ich öffne nur Datei-Anhänge von Menschen, die ich kenne. Ich kann Datei-Anhänge speichern. "@de .
+
+<http://rlp.de/2761100000740606001063001008010> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001008000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Manche E-Mails sind für den Computer gefährlich. Sie können den Computer kaputt machen. Ich kann gefährliche E-Mails erkennen. Ich kann gefähr..."@de .
+
+<http://rlp.de/2761100000740606001063001009001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001009000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann sagen, wie viele Stunden am Tag ich Medien nutze. Ich kann sagen, wie viele Stunden in der Woche ich Medien nutze. "@de .
+
+<http://rlp.de/2761100000740606001063001009002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001009000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann erzählen, was ich gesehen habe. Zum Beispiel: Filme Bilder Internet Computer-Spiele. "@de .
+
+<http://rlp.de/2761100000740606001063001009003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001009000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann sagen, was ich dabei denke. Und was ich dabei fühle. "@de .
+
+<http://rlp.de/2761100000740606001063001009004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001009000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann erklären, wie Programme gemacht werden. im Fernsehen im Radio "@de .
+
+<http://rlp.de/2761100000740606001063001009005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001009000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann sagen, wie Werbung geht. "@de .
+
+<http://rlp.de/2761100000740606001063001010001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein Video erstellen. Das heißt: Ich kann einen Film machen. "@de .
+
+<http://rlp.de/2761100000740606001063001010002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Menschen filmen. Ich kann Tiere filmen. Zum Beispiel: mit der Kamera mit dem Tablet. "@de .
+
+<http://rlp.de/2761100000740606001063001010003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Zeichnungen filmen. Ich kann Dinge filmen. Zum Beispiel: mit der Kamera mit dem Tablet. "@de .
+
+<http://rlp.de/2761100000740606001063001010004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen bearbeiten. Das heißt: Ich kann meine Aufnahmen verändern. "@de .
+
+<http://rlp.de/2761100000740606001063001010005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen speichern. Ich kann meinenn Aufnahmen Namen geben. "@de .
+
+<http://rlp.de/2761100000740606001063001010006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen löschen. "@de .
+
+<http://rlp.de/2761100000740606001063001010007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann meine Aufnahmen zeigen. "@de .
+
+<http://rlp.de/2761100000740606001063001010008> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000740606001063001010000> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann beschreiben, was andere Menschen über meine Aufnahmen sagen. Sie sagen zum Beispiel: Die Aufnahmen sind gut schlecht langweilig span..."@de .
+
+<http://rlp.de/2761100000740606001063001005000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann eine Präsentation erstellen. Ich kann eine Präsentation zeigen."@de .
+
+<http://rlp.de/2761100000740606001063001009000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann sagen, welche Medien ich nutze. Zum Beispiel: Fernsehen Radio Computer. "@de .
+
+<http://rlp.de/2761100000740606001063001001000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kenne den Computer"@de .
+
+<http://rlp.de/2761100000740606001063001003000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Musik oder Sprache aufnehmen. Ich kann die Aufnahme abspielen."@de .
+
+<http://rlp.de/2761100000740606001063001004000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Fotos aufnehmen. Ich kann Fotos zeigen."@de .
+
+<http://rlp.de/2761100000740606001063001006000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann mit einem Rechen-Programm arbeiten."@de .
+
+<http://rlp.de/2761100000740606001063001007000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann das Internet benutzen."@de .
+
+<http://rlp.de/2761100000740606001063001010000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein Video erstellen."@de .
+
+<http://rlp.de/2761100000740606001063001002000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann Texte schreiben. Ich kann mit Texten arbeiten."@de .
+
+<http://rlp.de/2761100000740606001063001008000> a skos:Concept ;
+    skos:broader <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Ich kann ein E-Mail-Programm benutzen."@de .
+
+<http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> a skos:Concept ;
+    skos:inScheme <http://rlp.de/2761100000740606001063000000000> ;
+    skos:prefLabel "Kompetenzen"@de ;
+    skos:topConceptOf <http://rlp.de/2761100000740606001063000000000> .
+
+<http://rlp.de/2761100000740606001063000000000> a skos:ConceptScheme ;
+    dct:title "MedienkomP@ss in leichter Sprache"@de ;
+    skos:hasTopConcept <http://rlp.de/a91add61-c1ca-432f-8fe8-00323c5a56f413aac9fa-4feb-4b17-882a-b1bdb1caa66f> .
+

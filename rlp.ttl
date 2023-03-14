@@ -7,7 +7,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.1.1." ;
     skos:note "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
-    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de .
+    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
+    skos:relatedMatch <http://nw.de/505099010101> .
 
 <http://rlp.de/505099010102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990101> ;
@@ -15,7 +16,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.1.2." ;
     skos:note "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
-    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de .
+    skos:prefLabel "Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln"@de ;
+    skos:relatedMatch <http://nw.de/505099010102> .
 
 <http://rlp.de/505099010103> a skos:Concept ;
     skos:broader <http://rlp.de/5050990101> ;
@@ -23,7 +25,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.1.3." ;
     skos:note "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
-    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de .
+    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
+    skos:relatedMatch <http://nw.de/505099010103> .
 
 <http://rlp.de/505099010104> a skos:Concept ;
     skos:broader <http://rlp.de/5050990101> ;
@@ -31,7 +34,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.1.4." ;
     skos:note "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
-    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de .
+    skos:prefLabel "Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen"@de ;
+    skos:relatedMatch <http://nw.de/505099010104> .
 
 <http://rlp.de/505099010201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990102> ;
@@ -39,7 +43,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.2.1." ;
     skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
-    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:relatedMatch <http://nw.de/505099010201> .
 
 <http://rlp.de/505099010202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990102> ;
@@ -47,7 +52,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.2.2." ;
     skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
-    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:relatedMatch <http://nw.de/505099010202> .
 
 <http://rlp.de/505099010301> a skos:Concept ;
     skos:broader <http://rlp.de/5050990103> ;
@@ -55,7 +61,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.3.1." ;
     skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
-    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:relatedMatch <http://nw.de/505099010301> .
 
 <http://rlp.de/505099010302> a skos:Concept ;
     skos:broader <http://rlp.de/5050990103> ;
@@ -63,7 +70,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "1.3.2." ;
     skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
-    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:relatedMatch <http://nw.de/505099010302> .
 
 <http://rlp.de/505099020101> a skos:Concept ;
     skos:broader <http://rlp.de/5050990201> ;
@@ -71,7 +79,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.1.1." ;
     skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
-    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099020101> .
 
 <http://rlp.de/505099020102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990201> ;
@@ -79,7 +88,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.1.2." ;
     skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
-    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:relatedMatch <http://nw.de/505099020102> .
 
 <http://rlp.de/505099020201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990202> ;
@@ -87,7 +97,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.2.1." ;
     skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
-    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:relatedMatch <http://nw.de/505099020201> .
 
 <http://rlp.de/505099020202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990202> ;
@@ -95,7 +106,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.2.2." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/505099020202> .
 
 <http://rlp.de/505099020301> a skos:Concept ;
     skos:broader <http://rlp.de/5050990203> ;
@@ -103,7 +115,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.3.1." ;
     skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
-    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:relatedMatch <http://nw.de/505099020301> .
 
 <http://rlp.de/505099020302> a skos:Concept ;
     skos:broader <http://rlp.de/5050990203> ;
@@ -111,7 +124,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.3.2." ;
     skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
-    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:relatedMatch <http://nw.de/505099020302> .
 
 <http://rlp.de/505099020401> a skos:Concept ;
     skos:broader <http://rlp.de/5050990204> ;
@@ -119,7 +133,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.4.1." ;
     skos:note "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
-    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de .
+    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
+    skos:relatedMatch <http://nw.de/505099020401> .
 
 <http://rlp.de/505099020402> a skos:Concept ;
     skos:broader <http://rlp.de/5050990204> ;
@@ -127,7 +142,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.4.2." ;
     skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
-    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099020402> .
 
 <http://rlp.de/505099020403> a skos:Concept ;
     skos:broader <http://rlp.de/5050990204> ;
@@ -135,7 +151,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.4.3." ;
     skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
-    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:relatedMatch <http://nw.de/505099020403> .
 
 <http://rlp.de/505099020404> a skos:Concept ;
     skos:broader <http://rlp.de/5050990204> ;
@@ -143,7 +160,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.4.4." ;
     skos:note "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
-    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de .
+    skos:prefLabel "Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren"@de ;
+    skos:relatedMatch <http://nw.de/505099020404> .
 
 <http://rlp.de/505099020501> a skos:Concept ;
     skos:broader <http://rlp.de/5050990205> ;
@@ -151,7 +169,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.5.1." ;
     skos:note "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
-    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de .
+    skos:prefLabel "Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und verwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099020501> .
 
 <http://rlp.de/505099020502> a skos:Concept ;
     skos:broader <http://rlp.de/5050990205> ;
@@ -159,7 +178,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.5.2." ;
     skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
-    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:relatedMatch <http://nw.de/505099020502> .
 
 <http://rlp.de/505099020503> a skos:Concept ;
     skos:broader <http://rlp.de/5050990205> ;
@@ -167,7 +187,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "2.5.3." ;
     skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
-    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:relatedMatch <http://nw.de/505099020503> .
 
 <http://rlp.de/505099030101> a skos:Concept ;
     skos:broader <http://rlp.de/5050990301> ;
@@ -175,7 +196,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.1.1." ;
     skos:note "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
-    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de .
+    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
+    skos:relatedMatch <http://nw.de/505099030101> .
 
 <http://rlp.de/505099030102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990301> ;
@@ -183,7 +205,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.1.2." ;
     skos:note "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
-    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de .
+    skos:prefLabel "Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten"@de ;
+    skos:relatedMatch <http://nw.de/505099030102> .
 
 <http://rlp.de/505099030201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990302> ;
@@ -191,7 +214,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.2.1." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/505099030201> .
 
 <http://rlp.de/505099030202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990302> ;
@@ -199,7 +223,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.2.2." ;
     skos:note "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
-    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de .
+    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
+    skos:relatedMatch <http://nw.de/505099030202> .
 
 <http://rlp.de/505099030301> a skos:Concept ;
     skos:broader <http://rlp.de/5050990303> ;
@@ -207,7 +232,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.3.1." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/505099030301> .
 
 <http://rlp.de/505099030302> a skos:Concept ;
     skos:broader <http://rlp.de/5050990303> ;
@@ -215,7 +241,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.3.2." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/505099030302> .
 
 <http://rlp.de/505099030303> a skos:Concept ;
     skos:broader <http://rlp.de/5050990303> ;
@@ -223,7 +250,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "3.3.3." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/505099030303> .
 
 <http://rlp.de/505099040101> a skos:Concept ;
     skos:broader <http://rlp.de/5050990401> ;
@@ -231,7 +259,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.1.1." ;
     skos:note "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
-    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de .
+    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
+    skos:relatedMatch <http://nw.de/505099040101> .
 
 <http://rlp.de/505099040102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990401> ;
@@ -239,7 +268,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.1.2." ;
     skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
-    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:relatedMatch <http://nw.de/505099040102> .
 
 <http://rlp.de/505099040201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990402> ;
@@ -247,7 +277,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.2.1." ;
     skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
-    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:relatedMatch <http://nw.de/505099040201> .
 
 <http://rlp.de/505099040202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990402> ;
@@ -255,7 +286,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.2.2." ;
     skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
-    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:relatedMatch <http://nw.de/505099040202> .
 
 <http://rlp.de/505099040203> a skos:Concept ;
     skos:broader <http://rlp.de/5050990402> ;
@@ -263,7 +295,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.2.3." ;
     skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
-    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:relatedMatch <http://nw.de/505099040203> .
 
 <http://rlp.de/505099040204> a skos:Concept ;
     skos:broader <http://rlp.de/5050990402> ;
@@ -271,7 +304,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.2.4." ;
     skos:note "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen"@de ;
-    skos:prefLabel "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen"@de .
+    skos:prefLabel "Jugend- und Verbraucherschutzbestimmungen beachten, Auswirkungen und Folgen benennen"@de ;
+    skos:relatedMatch <http://nw.de/505099040204> .
 
 <http://rlp.de/505099040301> a skos:Concept ;
     skos:broader <http://rlp.de/5050990403> ;
@@ -279,7 +313,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.3.1." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/505099040301> .
 
 <http://rlp.de/505099040302> a skos:Concept ;
     skos:broader <http://rlp.de/5050990403> ;
@@ -287,7 +322,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.3.2." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/505099040302> .
 
 <http://rlp.de/505099040303> a skos:Concept ;
     skos:broader <http://rlp.de/5050990403> ;
@@ -295,7 +331,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.3.3." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/505099040303> .
 
 <http://rlp.de/505099040401> a skos:Concept ;
     skos:broader <http://rlp.de/5050990404> ;
@@ -303,7 +340,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "4.4.1." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/505099040401> .
 
 <http://rlp.de/505099050101> a skos:Concept ;
     skos:broader <http://rlp.de/5050990501> ;
@@ -311,7 +349,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.1.1." ;
     skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
-    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:relatedMatch <http://nw.de/505099050101> .
 
 <http://rlp.de/505099050102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990501> ;
@@ -319,7 +358,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.1.2." ;
     skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
-    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:relatedMatch <http://nw.de/505099050102> .
 
 <http://rlp.de/505099050103> a skos:Concept ;
     skos:broader <http://rlp.de/5050990501> ;
@@ -327,7 +367,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.1.3." ;
     skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
-    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:relatedMatch <http://nw.de/505099050103> .
 
 <http://rlp.de/505099050201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990502> ;
@@ -335,7 +376,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.2.1." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050201> .
 
 <http://rlp.de/505099050202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990502> ;
@@ -343,7 +385,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.2.2." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050202> .
 
 <http://rlp.de/505099050203> a skos:Concept ;
     skos:broader <http://rlp.de/5050990502> ;
@@ -351,7 +394,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.2.3." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050203> .
 
 <http://rlp.de/505099050204> a skos:Concept ;
     skos:broader <http://rlp.de/5050990502> ;
@@ -359,7 +403,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.2.4." ;
     skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
-    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:relatedMatch <http://nw.de/505099050204> .
 
 <http://rlp.de/505099050301> a skos:Concept ;
     skos:broader <http://rlp.de/5050990503> ;
@@ -367,7 +412,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.3.1." ;
     skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
-    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:relatedMatch <http://nw.de/505099050301> .
 
 <http://rlp.de/505099050302> a skos:Concept ;
     skos:broader <http://rlp.de/5050990503> ;
@@ -375,7 +421,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.3.2." ;
     skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
-    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:relatedMatch <http://nw.de/505099050302> .
 
 <http://rlp.de/505099050401> a skos:Concept ;
     skos:broader <http://rlp.de/5050990504> ;
@@ -383,7 +430,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.4.1." ;
     skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
-    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:relatedMatch <http://nw.de/505099050401> .
 
 <http://rlp.de/505099050402> a skos:Concept ;
     skos:broader <http://rlp.de/5050990504> ;
@@ -391,7 +439,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.4.2." ;
     skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
-    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:relatedMatch <http://nw.de/505099050402> .
 
 <http://rlp.de/505099050501> a skos:Concept ;
     skos:broader <http://rlp.de/5050990505> ;
@@ -399,7 +448,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.5.1." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050501> .
 
 <http://rlp.de/505099050502> a skos:Concept ;
     skos:broader <http://rlp.de/5050990505> ;
@@ -407,7 +457,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.5.2." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050502> .
 
 <http://rlp.de/505099050503> a skos:Concept ;
     skos:broader <http://rlp.de/5050990505> ;
@@ -415,7 +466,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "5.5.3." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/505099050503> .
 
 <http://rlp.de/505099060101> a skos:Concept ;
     skos:broader <http://rlp.de/5050990601> ;
@@ -423,7 +475,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.1.1." ;
     skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
-    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:relatedMatch <http://nw.de/505099060101> .
 
 <http://rlp.de/505099060102> a skos:Concept ;
     skos:broader <http://rlp.de/5050990601> ;
@@ -431,7 +484,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.1.2." ;
     skos:note "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
-    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de .
+    skos:prefLabel "Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen"@de ;
+    skos:relatedMatch <http://nw.de/505099060102> .
 
 <http://rlp.de/505099060103> a skos:Concept ;
     skos:broader <http://rlp.de/5050990601> ;
@@ -439,7 +493,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.1.3." ;
     skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
-    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:relatedMatch <http://nw.de/505099060103> .
 
 <http://rlp.de/505099060201> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -447,7 +502,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.1." ;
     skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
-    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:relatedMatch <http://nw.de/505099060201> .
 
 <http://rlp.de/505099060202> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -455,7 +511,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.2." ;
     skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
-    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:relatedMatch <http://nw.de/505099060202> .
 
 <http://rlp.de/505099060203> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -463,7 +520,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.3." ;
     skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
-    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:relatedMatch <http://nw.de/505099060203> .
 
 <http://rlp.de/505099060204> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -471,7 +529,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.4." ;
     skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
-    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:relatedMatch <http://nw.de/505099060204> .
 
 <http://rlp.de/505099060205> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -479,7 +538,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.5." ;
     skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
-    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:relatedMatch <http://nw.de/505099060205> .
 
 <http://rlp.de/505099060206> a skos:Concept ;
     skos:broader <http://rlp.de/5050990602> ;
@@ -487,7 +547,8 @@
     skos:inScheme <http://rlp.de/50> ;
     skos:notation "6.2.6." ;
     skos:note "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
-    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de .
+    skos:prefLabel "Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren und dem eigenen Handeln zugrunde legen"@de ;
+    skos:relatedMatch <http://nw.de/505099060206> .
 
 <http://rlp.de/5050990404> a skos:Concept ;
     skos:broader <http://rlp.de/50509904> ;
@@ -496,7 +557,8 @@
     skos:narrower <http://rlp.de/505099040401> ;
     skos:notation "4.4." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/5050990404> .
 
 <http://rlp.de/50509906> a skos:Concept ;
     skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/98BD185D-919B-4E7F-BFBB-A4DB2020CE1E> ;
@@ -506,6 +568,7 @@
     skos:notation "6." ;
     skos:note "Analysieren und Reflektrieren"@de ;
     skos:prefLabel "Analysieren und Reflektrieren"@de ;
+    skos:relatedMatch <http://nw.de/50509906> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/50509901> a skos:Concept ;
@@ -517,6 +580,7 @@
     skos:notation "1." ;
     skos:note "Informieren und Recherchieren"@de ;
     skos:prefLabel "Informieren und Recherchieren"@de ;
+    skos:relatedMatch <http://nw.de/50509901> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/5050990102> a skos:Concept ;
@@ -527,7 +591,8 @@
         <http://rlp.de/505099010202> ;
     skos:notation "1.2." ;
     skos:note "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
-    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de .
+    skos:prefLabel "Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten"@de ;
+    skos:relatedMatch <http://nw.de/5050990102> .
 
 <http://rlp.de/5050990103> a skos:Concept ;
     skos:broader <http://rlp.de/50509901> ;
@@ -537,7 +602,8 @@
         <http://rlp.de/505099010302> ;
     skos:notation "1.3." ;
     skos:note "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
-    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de .
+    skos:prefLabel "Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten und in unterschiedlichen Kontexten abrufen"@de ;
+    skos:relatedMatch <http://nw.de/5050990103> .
 
 <http://rlp.de/5050990201> a skos:Concept ;
     skos:broader <http://rlp.de/50509902> ;
@@ -547,7 +613,8 @@
         <http://rlp.de/505099020102> ;
     skos:notation "2.1." ;
     skos:note "Kommunizieren und Kooperieren"@de ;
-    skos:prefLabel "Kommunizieren und Kooperieren"@de .
+    skos:prefLabel "Kommunizieren und Kooperieren"@de ;
+    skos:relatedMatch <http://nw.de/5050990201> .
 
 <http://rlp.de/5050990202> a skos:Concept ;
     skos:broader <http://rlp.de/50509902> ;
@@ -557,7 +624,8 @@
         <http://rlp.de/505099020202> ;
     skos:notation "2.2." ;
     skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
-    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990202> .
 
 <http://rlp.de/5050990203> a skos:Concept ;
     skos:broader <http://rlp.de/50509902> ;
@@ -567,7 +635,8 @@
         <http://rlp.de/505099020302> ;
     skos:notation "2.3." ;
     skos:note "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
-    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de .
+    skos:prefLabel "Digitale Werkzeuge und Ressourcen für die aktiv-produktive und kollaborative  Arbeit mit Informationen und Daten nutzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990203> .
 
 <http://rlp.de/50509903> a skos:Concept ;
     skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/F427CBE5-3444-405B-B3ED-31392C5AD548> ;
@@ -578,6 +647,7 @@
     skos:notation "3." ;
     skos:note "Produzieren und Präsentieren"@de ;
     skos:prefLabel "Produzieren und Präsentieren"@de ;
+    skos:relatedMatch <http://nw.de/50509903> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/5050990301> a skos:Concept ;
@@ -588,7 +658,8 @@
         <http://rlp.de/505099030102> ;
     skos:notation "3.1." ;
     skos:note "Produzieren und Präsentieren"@de ;
-    skos:prefLabel "Produzieren und Präsentieren"@de .
+    skos:prefLabel "Produzieren und Präsentieren"@de ;
+    skos:relatedMatch <http://nw.de/5050990301> .
 
 <http://rlp.de/5050990302> a skos:Concept ;
     skos:broader <http://rlp.de/50509903> ;
@@ -598,7 +669,8 @@
         <http://rlp.de/505099030202> ;
     skos:notation "3.2." ;
     skos:note "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
-    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de .
+    skos:prefLabel "Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweitern"@de ;
+    skos:relatedMatch <http://nw.de/5050990302> .
 
 <http://rlp.de/5050990401> a skos:Concept ;
     skos:broader <http://rlp.de/50509904> ;
@@ -608,7 +680,8 @@
         <http://rlp.de/505099040102> ;
     skos:notation "4.1." ;
     skos:note "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
-    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de .
+    skos:prefLabel "Chancen und Risiken digitaler Umgebungen benennen und einschätzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990401> .
 
 <http://rlp.de/5050990503> a skos:Concept ;
     skos:broader <http://rlp.de/50509905> ;
@@ -618,7 +691,8 @@
         <http://rlp.de/505099050302> ;
     skos:notation "5.3." ;
     skos:note "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
-    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de .
+    skos:prefLabel "Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen"@de ;
+    skos:relatedMatch <http://nw.de/5050990503> .
 
 <http://rlp.de/5050990504> a skos:Concept ;
     skos:broader <http://rlp.de/50509905> ;
@@ -628,7 +702,8 @@
         <http://rlp.de/505099050402> ;
     skos:notation "5.4." ;
     skos:note "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
-    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de .
+    skos:prefLabel "Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen"@de ;
+    skos:relatedMatch <http://nw.de/5050990504> .
 
 <http://rlp.de/5050990205> a skos:Concept ;
     skos:broader <http://rlp.de/50509902> ;
@@ -639,7 +714,8 @@
         <http://rlp.de/505099020503> ;
     skos:notation "2.5." ;
     skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
-    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990205> .
 
 <http://rlp.de/5050990303> a skos:Concept ;
     skos:broader <http://rlp.de/50509903> ;
@@ -650,7 +726,8 @@
         <http://rlp.de/505099030303> ;
     skos:notation "3.3." ;
     skos:note "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
-    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de .
+    skos:prefLabel "Vorhandene digitale Produkte rechtssicher verwenden, zusammen- führen und weiterverarbeiten"@de ;
+    skos:relatedMatch <http://nw.de/5050990303> .
 
 <http://rlp.de/50509904> a skos:Concept ;
     skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/4183F865-E001-47C1-B0C9-FE6EB5660ABE> ;
@@ -662,6 +739,7 @@
     skos:notation "4." ;
     skos:note "Problembewusst und sicher agieren"@de ;
     skos:prefLabel "Problembewusst und sicher agieren"@de ;
+    skos:relatedMatch <http://nw.de/50509904> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/5050990403> a skos:Concept ;
@@ -673,7 +751,8 @@
         <http://rlp.de/505099040303> ;
     skos:notation "4.3." ;
     skos:note "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
-    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de .
+    skos:prefLabel "Folgen für Gesundheit und Umwelt einschätzen, reflektiert, verantwortungsbewusst und nachhaltig handeln"@de ;
+    skos:relatedMatch <http://nw.de/5050990403> .
 
 <http://rlp.de/5050990501> a skos:Concept ;
     skos:broader <http://rlp.de/50509905> ;
@@ -684,7 +763,8 @@
         <http://rlp.de/505099050103> ;
     skos:notation "5.1." ;
     skos:note "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
-    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de .
+    skos:prefLabel "Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990501> .
 
 <http://rlp.de/5050990505> a skos:Concept ;
     skos:broader <http://rlp.de/50509905> ;
@@ -695,7 +775,8 @@
         <http://rlp.de/505099050503> ;
     skos:notation "5.5." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/5050990505> .
 
 <http://rlp.de/5050990601> a skos:Concept ;
     skos:broader <http://rlp.de/50509906> ;
@@ -706,7 +787,8 @@
         <http://rlp.de/505099060103> ;
     skos:notation "6.1." ;
     skos:note "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
-    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de .
+    skos:prefLabel "Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten"@de ;
+    skos:relatedMatch <http://nw.de/5050990601> .
 
 <http://rlp.de/5050990101> a skos:Concept ;
     skos:broader <http://rlp.de/50509901> ;
@@ -718,7 +800,8 @@
         <http://rlp.de/505099010104> ;
     skos:notation "1.1." ;
     skos:note "Informieren und Recherchieren"@de ;
-    skos:prefLabel "Informieren und Recherchieren"@de .
+    skos:prefLabel "Informieren und Recherchieren"@de ;
+    skos:relatedMatch <http://nw.de/5050990101> .
 
 <http://rlp.de/50509902> a skos:Concept ;
     skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/5490EF24-A2EE-4A93-8F06-D4E535A5667D> ;
@@ -731,6 +814,7 @@
     skos:notation "2." ;
     skos:note "Kommunizieren und Kooperieren"@de ;
     skos:prefLabel "Kommunizieren und Kooperieren"@de ;
+    skos:relatedMatch <http://nw.de/50509902> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/5050990204> a skos:Concept ;
@@ -743,7 +827,8 @@
         <http://rlp.de/505099020404> ;
     skos:notation "2.4." ;
     skos:note "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
-    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de .
+    skos:prefLabel "Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen"@de ;
+    skos:relatedMatch <http://nw.de/5050990204> .
 
 <http://rlp.de/5050990402> a skos:Concept ;
     skos:broader <http://rlp.de/50509904> ;
@@ -755,7 +840,8 @@
         <http://rlp.de/505099040204> ;
     skos:notation "4.2." ;
     skos:note "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
-    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de .
+    skos:prefLabel "Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen"@de ;
+    skos:relatedMatch <http://nw.de/5050990402> .
 
 <http://rlp.de/50509905> a skos:Concept ;
     skos:exactMatch <http://w3id.org/kim/kmk-vocabs/digitalisierungsbezogene-kompetenzen/3A80F194-4CA1-43A1-B67A-E815B16BEFE5> ;
@@ -768,6 +854,7 @@
     skos:notation "5." ;
     skos:note "Anwenden und Handeln"@de ;
     skos:prefLabel "Anwenden und Handeln"@de ;
+    skos:relatedMatch <http://nw.de/50509905> ;
     skos:topConceptOf <http://rlp.de/50> .
 
 <http://rlp.de/5050990502> a skos:Concept ;
@@ -780,7 +867,8 @@
         <http://rlp.de/505099050204> ;
     skos:notation "5.2." ;
     skos:note "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
-    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de .
+    skos:prefLabel "Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden"@de ;
+    skos:relatedMatch <http://nw.de/5050990502> .
 
 <http://rlp.de/5050990602> a skos:Concept ;
     skos:broader <http://rlp.de/50509906> ;
@@ -794,7 +882,8 @@
         <http://rlp.de/505099060206> ;
     skos:notation "6.2." ;
     skos:note "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
-    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de .
+    skos:prefLabel "Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen"@de ;
+    skos:relatedMatch <http://nw.de/5050990602> .
 
 <http://rlp.de/50> a skos:ConceptScheme ;
     dct:title "Medienkompass Rheinland-Pfalz (2017)"@de ;

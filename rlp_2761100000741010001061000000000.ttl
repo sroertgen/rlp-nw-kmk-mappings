@@ -1,0 +1,532 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://rlp.de/2761100000741010001061001001001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.1.1. Mehrere technische Bearbeitungswerkzeuge kennen und anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001001002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.1. Anforderungen an digitale Umgebungen formulieren "@de .
+
+<http://rlp.de/2761100000741010001061001001003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.2. Technische Probleme identifizieren "@de .
+
+<http://rlp.de/2761100000741010001061001001004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.2.1. Eine Vielzahl von digitalen Werkzeugen kennen und kreativ anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001001005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.2.3. Passende Werkzeuge zur Lösung identifizieren "@de .
+
+<http://rlp.de/2761100000741010001061001001006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001001000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.4.1. Effektive digitale Lernmöglichkeiten finden, bewerten und nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001002001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001002000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.3. Bedarfe für Lösungen ermitteln und Lösungen finden bzw. Lösungsstrategien entwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001002002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001002000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.2.2. Anforderungen an digitale Werkzeuge formulieren "@de .
+
+<http://rlp.de/2761100000741010001061001002003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001002000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.2.4. Digitale Umgebungen und Werkzeuge zum persönlichen Gebrauch anpassen "@de .
+
+<http://rlp.de/2761100000741010001061001002004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001002000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.3.1. Eigene Defizite bei der Nutzung digitaler Werkzeuge erkennen und Strategien zur Beseitigung entwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001003001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001003000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.2.3. Passende Werkzeuge zur Lösung identifizieren "@de .
+
+<http://rlp.de/2761100000741010001061001003002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001003000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.2. Technische Probleme identifizieren "@de .
+
+<http://rlp.de/2761100000741010001061001003003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001003000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.3. Bedarfe für Lösungen ermitteln und Lösungen finden bzw. Lösungsstrategien entwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001003004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001003000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.3.2. Eigene Strategien zur Problemlösung mit anderen teilen "@de .
+
+<http://rlp.de/2761100000741010001061001004001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.2. Technische Probleme identifizieren "@de .
+
+<http://rlp.de/2761100000741010001061001004002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.1.3. Bedarfe für Lösungen ermitteln und Lösungen finden bzw. Lösungsstrategien entwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001004003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.4.1. Effektive digitale Lernmöglichkeiten finden, bewerten und nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001004004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.4.2. Persönliches System von vernetzten digitalen Lernressourcen selbst organisieren können "@de .
+
+<http://rlp.de/2761100000741010001061001004005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.5.1. Funktionsweisen und grundlegende Prinzipien der digitalen Welt kennen und verstehen "@de .
+
+<http://rlp.de/2761100000741010001061001004006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.5.2. Algorithmische Strukturen in genutzten digitalen Tools erkennen und formulieren "@de .
+
+<http://rlp.de/2761100000741010001061001004007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001004000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "5.5.3. Eine strukturierte, algorithmische Sequenz zur Lösung eines Problems planen und verwenden "@de .
+
+<http://rlp.de/2761100000741010001061001005001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001005000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.1.1. Risiken und Gefahren in digitalen Umgebungen kennen, reflektieren und berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001005002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001005000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.2. Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebensbereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifiziere..."@de .
+
+<http://rlp.de/2761100000741010001061001006001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001006000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.1.2. Strategien zum Schutz entwickeln und anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001006002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001006000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.2.1. Maßnahmen für Datensicherheit und gegen Datenmissbrauch berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001006003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001006000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.2.2. Privatsphäre in digitalen Umgebungen durch geeignete Maßnahmen schützen "@de .
+
+<http://rlp.de/2761100000741010001061001006004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001006000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.2.3. Sicherheitseinstellungen ständig aktualisieren "@de .
+
+<http://rlp.de/2761100000741010001061001007001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001007000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.2.4. Jugendschutz- und Verbraucherschutzmaßnahmen berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001008001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001008000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.3.1. Suchtgefahren vermeiden, sich Selbst und andere vor möglichen Gefahren schützen "@de .
+
+<http://rlp.de/2761100000741010001061001008002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001008000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.3.2. Digitale Technologien gesundheitsbewusst nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001008003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001008000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.3.3. Digitale Technologien für soziales Wohlergehen und Eingliederung nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001008004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001008000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "4.4.1. Umweltauswirkungen digitaler Technologien berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001009001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001009000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.1. Vielfalt der digitalen Medienlandschaft kennen "@de .
+
+<http://rlp.de/2761100000741010001061001010001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001010000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.2. Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebensbereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifiziere..."@de .
+
+<http://rlp.de/2761100000741010001061001010002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001010000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.3. Vorteile und Risiken von Geschäftsaktivitäten und Services im Internet analysieren und beurteilen "@de .
+
+<http://rlp.de/2761100000741010001061001010003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001010000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.4. Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologien kennen und sie für eigene Geschäftsideen nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001011001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001011000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.1.1. Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten "@de .
+
+<http://rlp.de/2761100000741010001061001011002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001011000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.1.2. Interessengeleitete Setzung, Verbreitung und Dominanz von Themen in digitalen Umgebungen erkennen und beurteilen "@de .
+
+<http://rlp.de/2761100000741010001061001011003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001011000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.1.3. Wirkungen von Medien in der digitalen Welt (z. B. mediale Konstrukte, Stars, Idole, Computerspiele, mediale Gewaltdarstellungen) analysieren un..."@de .
+
+<http://rlp.de/2761100000741010001061001012001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.1. Öffentliche und private Dienste nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001012002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.2. Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen "@de .
+
+<http://rlp.de/2761100000741010001061001012003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.3. Als selbstbestimmter Bürger aktiv an der Gesellschaft teilhaben "@de .
+
+<http://rlp.de/2761100000741010001061001012004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.4. Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologien kennen und sie für eigene Geschäftsideen nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001012005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.5. Die Bedeutung von digitalen Medien für die politische Meinungsbildung und Entscheidungsfindung kennen und nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001012006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001012000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "6.2.6. Potenziale der Digitalisierung im Sinne sozialer Integration und sozialer Teilhabe erkennen, analysieren und reflektieren "@de .
+
+<http://rlp.de/2761100000741010001061001013001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001013000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.1.1. Arbeits- und Suchinteressen klären und festlegen "@de .
+
+<http://rlp.de/2761100000741010001061001013002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001013000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.1.2. Suchstrategien nutzen und weiterentwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001014001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001014000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.1.3. In verschiedenen digitalen Umgebungen suchen "@de .
+
+<http://rlp.de/2761100000741010001061001014002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001014000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.1.4. Relevante Quellen identifizieren und zusammenführen "@de .
+
+<http://rlp.de/2761100000741010001061001015001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001015000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.2.1. Informationen und Daten analysieren, interpretieren und kritisch bewerten "@de .
+
+<http://rlp.de/2761100000741010001061001015002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001015000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.2.2. Informationsquellen analysieren und kritisch bewerten "@de .
+
+<http://rlp.de/2761100000741010001061001015003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001015000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.2.2. Referenzierungspraxis beherrschen (Quellenangaben) "@de .
+
+<http://rlp.de/2761100000741010001061001016001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001016000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.3.1. Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen "@de .
+
+<http://rlp.de/2761100000741010001061001016002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001016000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "1.3.2. Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren "@de .
+
+<http://rlp.de/2761100000741010001061001017001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001017000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.1.1. Mit Hilfe verschiedener digitaler Kommunikationsmöglichkeiten kommunizieren "@de .
+
+<http://rlp.de/2761100000741010001061001017002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001017000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.1.2. Digitale Kommunikationsmöglichkeiten zielgerichtet- und situationsgerecht auswählen "@de .
+
+<http://rlp.de/2761100000741010001061001018001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001018000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.1. Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001018002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001018000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.2. Kommunikation der jeweiligen Umgebung anpassen "@de .
+
+<http://rlp.de/2761100000741010001061001018003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001018000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.3. Ethische Prinzipien bei der Kommunikation kennen und berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001018004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001018000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.4. Kulturelle Vielfalt in digitalen Umgebungen berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001019001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001019000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.2.1. Dateien, Informationen und Links teilen "@de .
+
+<http://rlp.de/2761100000741010001061001019002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001019000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.2.2. Referenzierungspraxis beherrschen (Quellenangaben) "@de .
+
+<http://rlp.de/2761100000741010001061001019003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001019000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.3.1. Digitale Werkzeuge für die Zusammenarbeit bei der Zusammenführung von Informationen, Daten und Ressourcen nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001019004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001019000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.3.2. Digitale Werkzeuge bei der gemeinsamen Erarbeitung von Dokumenten nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001020001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.1. Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001020002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.2. Kommunikation der jeweiligen Umgebung anpassen "@de .
+
+<http://rlp.de/2761100000741010001061001020003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.3. Ethische Prinzipien bei der Kommunikation kennen und berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001020004> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.4.4. Kulturelle Vielfalt in digitalen Umgebungen berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001020005> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.1. Öffentliche und private Dienste nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001020006> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.2. Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen "@de .
+
+<http://rlp.de/2761100000741010001061001020007> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001020000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "2.5.3. Als selbstbestimmter Bürger aktiv an der Gesellschaft teilhaben "@de .
+
+<http://rlp.de/2761100000741010001061001021001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001021000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.1.1. Mehrere technische Bearbeitungswerkzeuge kennen und anwenden "@de .
+
+<http://rlp.de/2761100000741010001061001021002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001021000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.1.2. Eine Produktion planen und in verschiedenen Formaten gestalten, präsentieren, veröffentlichen oder teilen "@de .
+
+<http://rlp.de/2761100000741010001061001022001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001022000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.2.1. Inhalte in verschiedenen Formaten bearbeiten, zusammenführen, präsentieren und veröffentlichen oder teilen "@de .
+
+<http://rlp.de/2761100000741010001061001022002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001022000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.2.2. Informationen, Inhalte und vorhandene digitale Produkte weiterverarbeiten und in bestehendes Wissen integrieren "@de .
+
+<http://rlp.de/2761100000741010001061001023001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001023000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.3.1. Bedeutung von Urheberrecht und geistigem Eigentum kennen "@de .
+
+<http://rlp.de/2761100000741010001061001023002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001023000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.3.2. Urheber- und Nutzungsrechte (Lizenzen) bei eigenen und fremden Werken berücksichtigen "@de .
+
+<http://rlp.de/2761100000741010001061001023003> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001023000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.3.3. Persönlichkeitsrechte beachten "@de .
+
+<http://rlp.de/2761100000741010001061001024001> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001024000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.1.2. Eine Produktion planen und in verschiedenen Formaten gestalten, präsentieren, veröffentlichen oder teilen "@de .
+
+<http://rlp.de/2761100000741010001061001024002> a skos:Concept ;
+    skos:broader <http://rlp.de/2761100000741010001061001024000> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "3.2.1. Inhalte in verschiedenen Formaten bearbeiten, zusammenführen, präsentieren und veröffentlichen oder teilen "@de .
+
+<http://rlp.de/2761100000741010001061001007000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Problembewusst und sicher agieren Jugend- und Verbraucherschutz-Bestimmungen beachten, Auswirkungen und Folgen benennen "@de .
+
+<http://rlp.de/2761100000741010001061001009000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Analysieren und Reflektieren Die Vielfalt der digitalen Medienwelt kennen, die eigenen Bedürfnisse sowie gesellschaftliche Folgen einschätzen. "@de .
+
+<http://rlp.de/2761100000741010001061001005000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Problembewusst und sicher agieren Chancen und Risiken digitaler Umgebungen benennen und einschätzen "@de .
+
+<http://rlp.de/2761100000741010001061001013000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Informieren und Recherchieren Arbeits- und Suchinteressen klären, Strategien zur Informationsgewinnung entwickeln "@de .
+
+<http://rlp.de/2761100000741010001061001014000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Informieren und Recherchieren Verschiedene digitale Quellen, Formate und Instrumente bei Recherchen heranziehen, auf Relevanz überprüfen "@de .
+
+<http://rlp.de/2761100000741010001061001016000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Informieren und Recherchieren Informationen und Daten sicher speichern, strukturieren, wiederfinden und von verschiedenen Orten und in unterschiedlic..."@de .
+
+<http://rlp.de/2761100000741010001061001017000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Kommunizieren und Kooperieren Verschiedene digitale Kommunikationsmöglichkeiten heranziehen und angemessen verwenden "@de .
+
+<http://rlp.de/2761100000741010001061001021000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Produzieren und Präsentieren Eine Produktion planen und mit verschiedenen digitalen Möglichkeiten ausgestalten "@de .
+
+<http://rlp.de/2761100000741010001061001022000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Produzieren und Präsentieren Inhalte digitaler Formate bearbeiten, in bestehendes Wissen integrieren und die eigenen Handlungsmöglichkeiten erweite..."@de .
+
+<http://rlp.de/2761100000741010001061001024000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Produzieren und Präsentieren Adressaten- und sachgerecht präsentieren, Anregungen aufnehmen und weiterverarbeiten "@de .
+
+<http://rlp.de/2761100000741010001061001010000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Analysieren und Reflektieren Die Rolle der Medien im eigenen Leben und ihren Einfluss auf das Konsumverhalten und soziale Miteinander bewerten "@de .
+
+<http://rlp.de/2761100000741010001061001011000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Analysieren und Reflektieren Gestaltungsprinzipien und Wirkungsmechanismen erkennen, durchschauen und beurteilen "@de .
+
+<http://rlp.de/2761100000741010001061001015000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Informieren und Recherchieren Gewonnene Informationen und Daten analysieren, interpretieren und kritisch bewerten, korrekt referenzieren "@de .
+
+<http://rlp.de/2761100000741010001061001023000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Produzieren und Präsentieren Vorhandene digitale Produkte rechtssicher verwenden, zusammenführen und weiterverarbeiten "@de .
+
+<http://rlp.de/2761100000741010001061001002000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Anwenden und Handeln Digitale Lernangebote und Arbeitsumgebungen für den eigenen Bedarf nutzen und anpassen, Grenzen erkennen und benennen "@de .
+
+<http://rlp.de/2761100000741010001061001003000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Anwenden und Handeln Passende Strategien und Lösungswege entwickeln, Ergebnisse mit anderen teilen "@de .
+
+<http://rlp.de/2761100000741010001061001006000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Problembewusst und sicher agieren Maßnahmen für Datensicherheit und gegen Datenmissbrauch ergreifen, aktuell halten und die Privatsphäre schützen..."@de .
+
+<http://rlp.de/2761100000741010001061001008000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Problembewusst und sicher agieren Folgen für Gesundheit und Umwelt einschätzen, reflektieren, verantwortungsbewusst und nachhaltig handeln "@de .
+
+<http://rlp.de/2761100000741010001061001018000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Kommunizieren und Kooperieren Verhaltensregeln einhalten, respektvoll und adressatengerecht interagieren "@de .
+
+<http://rlp.de/2761100000741010001061001019000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Kommunizieren und Kooperieren Digitale Werkzeuge und Ressourcen für die produktive und kollaborative Arbeit mit Informationen und Daten nutzen "@de .
+
+<http://rlp.de/2761100000741010001061001001000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Anwenden und Handeln Grundlegende digitale Werkzeuge und Anwendungen kennen, zielgerichtet und kreativ nutzen, technische Probleme identifizieren und..."@de .
+
+<http://rlp.de/2761100000741010001061001012000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Analysieren und Reflektieren Die Potenziale der Digitalisierung für die eigene Weiterentwicklung, für soziale und politische Teilhabe reflektieren ..."@de .
+
+<http://rlp.de/2761100000741010001061001004000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Anwenden und Handeln Funktionsweisen und grundlegende Strukturen digitaler Werkzeuge erkennen, Algorithmen verstehen und selbst in Sequenzen anwenden..."@de .
+
+<http://rlp.de/2761100000741010001061001020000> a skos:Concept ;
+    skos:broader <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Kommunizieren und Kooperieren Selbstbestimmt und verantwortungsbewusst an privaten und gesellschaftlichen Kommunikationsprozessen teilnehmen "@de .
+
+<http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> a skos:Concept ;
+    skos:inScheme <http://rlp.de/2761100000741010001061000000000> ;
+    skos:prefLabel "Kompetenzen"@de ;
+    skos:topConceptOf <http://rlp.de/2761100000741010001061000000000> .
+
+<http://rlp.de/2761100000741010001061000000000> a skos:ConceptScheme ;
+    dct:title "MedienkomP@ss - Rahmenkonzept ab 2018 Sek. I mit KMK Formulierungen"@de ;
+    skos:hasTopConcept <http://rlp.de/bdc6b988-b97f-4c17-8512-ecf2fa2daebf13aac9fa-4feb-4b17-882a-b1bdb1caa66f> .
+

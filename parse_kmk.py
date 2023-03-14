@@ -61,9 +61,12 @@ def build_graph(uri, file_name):
             if uri == rlp:
                 g.add((item_uri, SKOS.prefLabel, Literal(item["mapping_description_RP"], lang="de")))
                 g.add((item_uri, SKOS.note, Literal(item["mapping_description_RP"], lang="de")))
+                g.add((item_uri, SKOS.relatedMatch, URIRef(nw + item["id"])))
             else:
                 g.add((item_uri, SKOS.prefLabel, Literal(item["mapping_description_NW"], lang="de")))
                 g.add((item_uri, SKOS.note, Literal(item["mapping_description_NW"], lang="de")))
+                g.add((item_uri, SKOS.relatedMatch, URIRef(rlp + item["id"])))
+
             g.add((item_uri, SKOS.notation, Literal(item["notation"])))
             g.add((item_uri, SKOS.exactMatch, item["kmk_match"]))
             g.add((item_uri, SKOS.inScheme, uri))
